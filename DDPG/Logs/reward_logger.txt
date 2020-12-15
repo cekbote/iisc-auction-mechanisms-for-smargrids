@@ -1,0 +1,310 @@
+Iteration: 0 | Agent: 0 | Main_Reward: [[0.27898374]]
+Iteration: 0 | Agent: 1 | Main_Reward: [[0.411]]
+Iteration: 0 | Agent: 2 | Main_Reward: 0.06076715469360352
+--------------------------------------
+ 
+Iteration: 10000 | Agent: 0 | Main_Reward: [[664.8578]]
+Iteration: 10000 | Agent: 1 | Main_Reward: [[1631.241]]
+Iteration: 10000 | Agent: 2 | Main_Reward: [[946.5398]]
+--------------------------------------
+ 
+Iteration: 20000 | Agent: 0 | Main_Reward: [[689.6234]]
+Iteration: 20000 | Agent: 1 | Main_Reward: [[1608.8867]]
+Iteration: 20000 | Agent: 2 | Main_Reward: [[891.6858]]
+--------------------------------------
+ 
+Iteration: 30000 | Agent: 0 | Main_Reward: [[735.753]]
+Iteration: 30000 | Agent: 1 | Main_Reward: [[1586.496]]
+Iteration: 30000 | Agent: 2 | Main_Reward: [[867.825]]
+--------------------------------------
+ 
+Iteration: 40000 | Agent: 0 | Main_Reward: [[735.905]]
+Iteration: 40000 | Agent: 1 | Main_Reward: [[1586.563]]
+Iteration: 40000 | Agent: 2 | Main_Reward: [[870.248]]
+--------------------------------------
+ 
+Iteration: 50000 | Agent: 0 | Main_Reward: [[739.223]]
+Iteration: 50000 | Agent: 1 | Main_Reward: [[1581.5103]]
+Iteration: 50000 | Agent: 2 | Main_Reward: [[884.6014]]
+--------------------------------------
+ 
+Iteration: 60000 | Agent: 0 | Main_Reward: [[739.626]]
+Iteration: 60000 | Agent: 1 | Main_Reward: [[1585.437]]
+Iteration: 60000 | Agent: 2 | Main_Reward: [[879.919]]
+--------------------------------------
+ 
+Iteration: 70000 | Agent: 0 | Main_Reward: [[727.397]]
+Iteration: 70000 | Agent: 1 | Main_Reward: [[1579.225]]
+Iteration: 70000 | Agent: 2 | Main_Reward: [[876.671]]
+--------------------------------------
+ 
+Iteration: 80000 | Agent: 0 | Main_Reward: [[732.875]]
+Iteration: 80000 | Agent: 1 | Main_Reward: [[1579.426]]
+Iteration: 80000 | Agent: 2 | Main_Reward: [[876.592]]
+--------------------------------------
+ 
+Iteration: 90000 | Agent: 0 | Main_Reward: [[737.026]]
+Iteration: 90000 | Agent: 1 | Main_Reward: [[1573.262]]
+Iteration: 90000 | Agent: 2 | Main_Reward: [[877.083]]
+--------------------------------------
+ 
+Iteration: 100000 | Agent: 0 | Main_Reward: [[742.233]]
+Iteration: 100000 | Agent: 1 | Main_Reward: [[1576.902]]
+Iteration: 100000 | Agent: 2 | Main_Reward: [[875.014]]
+--------------------------------------
+ 
+Iteration: 110000 | Agent: 0 | Main_Reward: [[732.008]]
+Iteration: 110000 | Agent: 1 | Main_Reward: [[1590.02]]
+Iteration: 110000 | Agent: 2 | Main_Reward: [[870.6948]]
+--------------------------------------
+ 
+Iteration: 120000 | Agent: 0 | Main_Reward: [[737.096]]
+Iteration: 120000 | Agent: 1 | Main_Reward: [[1589.19]]
+Iteration: 120000 | Agent: 2 | Main_Reward: [[873.35]]
+--------------------------------------
+ 
+Iteration: 130000 | Agent: 0 | Main_Reward: [[740.12]]
+Iteration: 130000 | Agent: 1 | Main_Reward: [[1570.482]]
+Iteration: 130000 | Agent: 2 | Main_Reward: [[875.9585]]
+--------------------------------------
+ 
+Iteration: 140000 | Agent: 0 | Main_Reward: [[744.251]]
+Iteration: 140000 | Agent: 1 | Main_Reward: [[1578.265]]
+Iteration: 140000 | Agent: 2 | Main_Reward: [[875.295]]
+--------------------------------------
+ 
+Iteration: 150000 | Agent: 0 | Main_Reward: [[731.661]]
+Iteration: 150000 | Agent: 1 | Main_Reward: [[1565.0792]]
+Iteration: 150000 | Agent: 2 | Main_Reward: [[880.3026]]
+--------------------------------------
+ 
+Iteration: 160000 | Agent: 0 | Main_Reward: [[730.047]]
+Iteration: 160000 | Agent: 1 | Main_Reward: [[1575.019]]
+Iteration: 160000 | Agent: 2 | Main_Reward: [[881.881]]
+--------------------------------------
+ 
+Iteration: 170000 | Agent: 0 | Main_Reward: [[727.644]]
+Iteration: 170000 | Agent: 1 | Main_Reward: [[1572.697]]
+Iteration: 170000 | Agent: 2 | Main_Reward: [[888.854]]
+--------------------------------------
+ 
+Iteration: 180000 | Agent: 0 | Main_Reward: [[720.135]]
+Iteration: 180000 | Agent: 1 | Main_Reward: [[1573.265]]
+Iteration: 180000 | Agent: 2 | Main_Reward: [[883.564]]
+--------------------------------------
+ 
+Iteration: 190000 | Agent: 0 | Main_Reward: [[725.31]]
+Iteration: 190000 | Agent: 1 | Main_Reward: [[1578.417]]
+Iteration: 190000 | Agent: 2 | Main_Reward: [[885.386]]
+--------------------------------------
+ 
+Iteration: 200000 | Agent: 0 | Main_Reward: [[732.942]]
+Iteration: 200000 | Agent: 1 | Main_Reward: [[1581.447]]
+Iteration: 200000 | Agent: 2 | Main_Reward: [[885.856]]
+--------------------------------------
+ 
+Iteration: 210000 | Agent: 0 | Main_Reward: [[733.245]]
+Iteration: 210000 | Agent: 1 | Main_Reward: [[1575.991]]
+Iteration: 210000 | Agent: 2 | Main_Reward: [[877.037]]
+--------------------------------------
+ 
+Iteration: 220000 | Agent: 0 | Main_Reward: [[725.847]]
+Iteration: 220000 | Agent: 1 | Main_Reward: [[1575.205]]
+Iteration: 220000 | Agent: 2 | Main_Reward: [[885.812]]
+--------------------------------------
+ 
+Iteration: 230000 | Agent: 0 | Main_Reward: [[726.744]]
+Iteration: 230000 | Agent: 1 | Main_Reward: [[1576.068]]
+Iteration: 230000 | Agent: 2 | Main_Reward: [[886.813]]
+--------------------------------------
+ 
+Iteration: 240000 | Agent: 0 | Main_Reward: [[734.241]]
+Iteration: 240000 | Agent: 1 | Main_Reward: [[1569.552]]
+Iteration: 240000 | Agent: 2 | Main_Reward: [[884.986]]
+--------------------------------------
+ 
+Iteration: 250000 | Agent: 0 | Main_Reward: [[728.595]]
+Iteration: 250000 | Agent: 1 | Main_Reward: [[1583.519]]
+Iteration: 250000 | Agent: 2 | Main_Reward: [[889.411]]
+--------------------------------------
+ 
+Iteration: 260000 | Agent: 0 | Main_Reward: [[724.185]]
+Iteration: 260000 | Agent: 1 | Main_Reward: [[1574.002]]
+Iteration: 260000 | Agent: 2 | Main_Reward: [[877.03]]
+--------------------------------------
+ 
+Iteration: 270000 | Agent: 0 | Main_Reward: [[718.995]]
+Iteration: 270000 | Agent: 1 | Main_Reward: [[1574.778]]
+Iteration: 270000 | Agent: 2 | Main_Reward: [[882.159]]
+--------------------------------------
+ 
+Iteration: 280000 | Agent: 0 | Main_Reward: [[724.08]]
+Iteration: 280000 | Agent: 1 | Main_Reward: [[1573.701]]
+Iteration: 280000 | Agent: 2 | Main_Reward: [[889.874]]
+--------------------------------------
+ 
+Iteration: 290000 | Agent: 0 | Main_Reward: [[736.869]]
+Iteration: 290000 | Agent: 1 | Main_Reward: [[1582.197]]
+Iteration: 290000 | Agent: 2 | Main_Reward: [[887.303]]
+--------------------------------------
+ 
+Iteration: 300000 | Agent: 0 | Main_Reward: [[723.756]]
+Iteration: 300000 | Agent: 1 | Main_Reward: [[1573.993]]
+Iteration: 300000 | Agent: 2 | Main_Reward: [[883.895]]
+--------------------------------------
+ 
+Iteration: 310000 | Agent: 0 | Main_Reward: [[726.48]]
+Iteration: 310000 | Agent: 1 | Main_Reward: [[1570.273]]
+Iteration: 310000 | Agent: 2 | Main_Reward: [[883.427]]
+--------------------------------------
+ 
+Iteration: 320000 | Agent: 0 | Main_Reward: [[726.639]]
+Iteration: 320000 | Agent: 1 | Main_Reward: [[1583.367]]
+Iteration: 320000 | Agent: 2 | Main_Reward: [[876.633]]
+--------------------------------------
+ 
+Iteration: 330000 | Agent: 0 | Main_Reward: [[737.808]]
+Iteration: 330000 | Agent: 1 | Main_Reward: [[1576.223]]
+Iteration: 330000 | Agent: 2 | Main_Reward: [[875.932]]
+--------------------------------------
+ 
+Iteration: 340000 | Agent: 0 | Main_Reward: [[730.656]]
+Iteration: 340000 | Agent: 1 | Main_Reward: [[1578.148]]
+Iteration: 340000 | Agent: 2 | Main_Reward: [[885.498]]
+--------------------------------------
+ 
+Iteration: 350000 | Agent: 0 | Main_Reward: [[720.522]]
+Iteration: 350000 | Agent: 1 | Main_Reward: [[1584.856]]
+Iteration: 350000 | Agent: 2 | Main_Reward: [[892.735]]
+--------------------------------------
+ 
+Iteration: 360000 | Agent: 0 | Main_Reward: [[718.407]]
+Iteration: 360000 | Agent: 1 | Main_Reward: [[1578.232]]
+Iteration: 360000 | Agent: 2 | Main_Reward: [[882.721]]
+--------------------------------------
+ 
+Iteration: 370000 | Agent: 0 | Main_Reward: [[723.507]]
+Iteration: 370000 | Agent: 1 | Main_Reward: [[1579.498]]
+Iteration: 370000 | Agent: 2 | Main_Reward: [[877.992]]
+--------------------------------------
+ 
+Iteration: 380000 | Agent: 0 | Main_Reward: [[718.164]]
+Iteration: 380000 | Agent: 1 | Main_Reward: [[1576.285]]
+Iteration: 380000 | Agent: 2 | Main_Reward: [[871.681]]
+--------------------------------------
+ 
+Iteration: 390000 | Agent: 0 | Main_Reward: [[727.515]]
+Iteration: 390000 | Agent: 1 | Main_Reward: [[1575.369]]
+Iteration: 390000 | Agent: 2 | Main_Reward: [[886.534]]
+--------------------------------------
+ 
+Iteration: 400000 | Agent: 0 | Main_Reward: [[724.263]]
+Iteration: 400000 | Agent: 1 | Main_Reward: [[1578.954]]
+Iteration: 400000 | Agent: 2 | Main_Reward: [[880.889]]
+--------------------------------------
+ 
+Iteration: 410000 | Agent: 0 | Main_Reward: [[725.511]]
+Iteration: 410000 | Agent: 1 | Main_Reward: [[1573.805]]
+Iteration: 410000 | Agent: 2 | Main_Reward: [[879.03]]
+--------------------------------------
+ 
+Iteration: 420000 | Agent: 0 | Main_Reward: [[722.613]]
+Iteration: 420000 | Agent: 1 | Main_Reward: [[1586.73]]
+Iteration: 420000 | Agent: 2 | Main_Reward: [[884.556]]
+--------------------------------------
+ 
+Iteration: 430000 | Agent: 0 | Main_Reward: [[722.1]]
+Iteration: 430000 | Agent: 1 | Main_Reward: [[1581.951]]
+Iteration: 430000 | Agent: 2 | Main_Reward: [[879.661]]
+--------------------------------------
+ 
+Iteration: 440000 | Agent: 0 | Main_Reward: [[731.982]]
+Iteration: 440000 | Agent: 1 | Main_Reward: [[1577.803]]
+Iteration: 440000 | Agent: 2 | Main_Reward: [[878.275]]
+--------------------------------------
+ 
+Iteration: 450000 | Agent: 0 | Main_Reward: [[726.03]]
+Iteration: 450000 | Agent: 1 | Main_Reward: [[1582.136]]
+Iteration: 450000 | Agent: 2 | Main_Reward: [[880.929]]
+--------------------------------------
+ 
+Iteration: 460000 | Agent: 0 | Main_Reward: [[727.983]]
+Iteration: 460000 | Agent: 1 | Main_Reward: [[1582.399]]
+Iteration: 460000 | Agent: 2 | Main_Reward: [[877.357]]
+--------------------------------------
+ 
+Iteration: 470000 | Agent: 0 | Main_Reward: [[727.626]]
+Iteration: 470000 | Agent: 1 | Main_Reward: [[1586.857]]
+Iteration: 470000 | Agent: 2 | Main_Reward: [[888.29]]
+--------------------------------------
+ 
+Iteration: 480000 | Agent: 0 | Main_Reward: [[729.918]]
+Iteration: 480000 | Agent: 1 | Main_Reward: [[1580.665]]
+Iteration: 480000 | Agent: 2 | Main_Reward: [[878.015]]
+--------------------------------------
+ 
+Iteration: 490000 | Agent: 0 | Main_Reward: [[730.425]]
+Iteration: 490000 | Agent: 1 | Main_Reward: [[1576.662]]
+Iteration: 490000 | Agent: 2 | Main_Reward: [[889.424]]
+--------------------------------------
+ 
+Iteration: 500000 | Agent: 0 | Main_Reward: [[727.536]]
+Iteration: 500000 | Agent: 1 | Main_Reward: [[1579.501]]
+Iteration: 500000 | Agent: 2 | Main_Reward: [[885.905]]
+--------------------------------------
+ 
+Iteration: 510000 | Agent: 0 | Main_Reward: [[729.987]]
+Iteration: 510000 | Agent: 1 | Main_Reward: [[1589.43]]
+Iteration: 510000 | Agent: 2 | Main_Reward: [[882.93]]
+--------------------------------------
+ 
+Iteration: 520000 | Agent: 0 | Main_Reward: [[729.087]]
+Iteration: 520000 | Agent: 1 | Main_Reward: [[1582.121]]
+Iteration: 520000 | Agent: 2 | Main_Reward: [[874.61]]
+--------------------------------------
+ 
+Iteration: 530000 | Agent: 0 | Main_Reward: [[724.566]]
+Iteration: 530000 | Agent: 1 | Main_Reward: [[1578.893]]
+Iteration: 530000 | Agent: 2 | Main_Reward: [[876.957]]
+--------------------------------------
+ 
+Iteration: 540000 | Agent: 0 | Main_Reward: [[725.661]]
+Iteration: 540000 | Agent: 1 | Main_Reward: [[1574.962]]
+Iteration: 540000 | Agent: 2 | Main_Reward: [[875.783]]
+--------------------------------------
+ 
+Iteration: 550000 | Agent: 0 | Main_Reward: [[715.356]]
+Iteration: 550000 | Agent: 1 | Main_Reward: [[1582.731]]
+Iteration: 550000 | Agent: 2 | Main_Reward: [[879.581]]
+--------------------------------------
+ 
+Iteration: 560000 | Agent: 0 | Main_Reward: [[732.828]]
+Iteration: 560000 | Agent: 1 | Main_Reward: [[1582.78]]
+Iteration: 560000 | Agent: 2 | Main_Reward: [[883.352]]
+--------------------------------------
+ 
+Iteration: 570000 | Agent: 0 | Main_Reward: [[731.202]]
+Iteration: 570000 | Agent: 1 | Main_Reward: [[1580.416]]
+Iteration: 570000 | Agent: 2 | Main_Reward: [[884.609]]
+--------------------------------------
+ 
+Iteration: 580000 | Agent: 0 | Main_Reward: [[723.633]]
+Iteration: 580000 | Agent: 1 | Main_Reward: [[1579.574]]
+Iteration: 580000 | Agent: 2 | Main_Reward: [[873.441]]
+--------------------------------------
+ 
+Iteration: 590000 | Agent: 0 | Main_Reward: [[735.957]]
+Iteration: 590000 | Agent: 1 | Main_Reward: [[1585.044]]
+Iteration: 590000 | Agent: 2 | Main_Reward: [[883.664]]
+--------------------------------------
+ 
+Iteration: 600000 | Agent: 0 | Main_Reward: [[727.428]]
+Iteration: 600000 | Agent: 1 | Main_Reward: [[1560.843]]
+Iteration: 600000 | Agent: 2 | Main_Reward: [[887.235]]
+--------------------------------------
+ 
+Iteration: 610000 | Agent: 0 | Main_Reward: [[730.365]]
+Iteration: 610000 | Agent: 1 | Main_Reward: [[1578.205]]
+Iteration: 610000 | Agent: 2 | Main_Reward: [[886.771]]
+--------------------------------------
+ 

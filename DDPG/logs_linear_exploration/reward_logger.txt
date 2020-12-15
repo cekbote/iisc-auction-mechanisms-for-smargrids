@@ -1,0 +1,1050 @@
+Iteration: 0 | Agent: 0 | Main_Reward: -0.1442145728564095 | Energy_DS: 0.007210728642820475 | Energy_Bst: 0.007210728642820475
+Iteration: 0 | Agent: 1 | Main_Reward: -0.1283606009185314 | Energy_DS: 0.002163939908146858 | Energy_Bst: 0.002163939908146858
+Iteration: 0 | Agent: 2 | Main_Reward: -0.11420916925325805 | Energy_DS: 0.005710458462662903 | Energy_Bst: 0.005710458462662903
+Iteration: 0 | Agent: 3 | Main_Reward: -0.16664959982397845 | Energy_DS: 0.0013350400176021546 | Energy_Bst: 0.0013350400176021546
+Iteration: 0 | Agent: 4 | Main_Reward: -0.1200088015530347 | Energy_DS: 0.006000440077651735 | Energy_Bst: 0.006000440077651735
+--------------------------------------
+ 
+Iteration: 1000 | Agent: 0 | Main_Reward: 1.792122838142628 | Energy_DS: 4.592159618591246 | Energy_Bst: 1.9891326348166125
+Iteration: 1000 | Agent: 1 | Main_Reward: 11.168982518267356 | Energy_DS: 4.719385163619373 | Energy_Bst: 2.1315576890869936
+Iteration: 1000 | Agent: 2 | Main_Reward: -2.0953154430269514 | Energy_DS: 4.265916729694307 | Energy_Bst: 1.7858189045442774
+Iteration: 1000 | Agent: 3 | Main_Reward: -31.841505685341513 | Energy_DS: 4.366610907405294 | Energy_Bst: 2.381821978916042
+Iteration: 1000 | Agent: 4 | Main_Reward: -38.556530580567326 | Energy_DS: 4.085322182193293 | Energy_Bst: 1.8228955982443855
+--------------------------------------
+ 
+Iteration: 2000 | Agent: 0 | Main_Reward: 5.13533412630682 | Energy_DS: 4.595568709584641 | Energy_Bst: 2.081704465595934
+Iteration: 2000 | Agent: 1 | Main_Reward: 13.083894973257893 | Energy_DS: 4.791050474056907 | Energy_Bst: 2.1706929620270787
+Iteration: 2000 | Agent: 2 | Main_Reward: -2.619883780523181 | Energy_DS: 4.29693727653555 | Energy_Bst: 1.9738075822779042
+Iteration: 2000 | Agent: 3 | Main_Reward: -31.33708070918866 | Energy_DS: 4.502435144463783 | Energy_Bst: 2.4609483937674796
+Iteration: 2000 | Agent: 4 | Main_Reward: -41.255747990377415 | Energy_DS: 4.2109360887524625 | Energy_Bst: 1.9581811648543186
+--------------------------------------
+ 
+Iteration: 3000 | Agent: 0 | Main_Reward: 5.45639331833239 | Energy_DS: 4.6351030306081 | Energy_Bst: 1.9838611590299695
+Iteration: 3000 | Agent: 1 | Main_Reward: 10.858875089837868 | Energy_DS: 4.825423889792698 | Energy_Bst: 2.2572331318724626
+Iteration: 3000 | Agent: 2 | Main_Reward: -1.8064573680227167 | Energy_DS: 4.2602444662849885 | Energy_Bst: 1.9014411603997083
+Iteration: 3000 | Agent: 3 | Main_Reward: -32.69795535043394 | Energy_DS: 4.573937136037216 | Energy_Bst: 2.5170216101482383
+Iteration: 3000 | Agent: 4 | Main_Reward: -37.791159187104775 | Energy_DS: 4.327326995683451 | Energy_Bst: 1.9118537500581028
+--------------------------------------
+ 
+Iteration: 4000 | Agent: 0 | Main_Reward: 4.072122174497988 | Energy_DS: 4.815008754173258 | Energy_Bst: 2.192884413633086
+Iteration: 4000 | Agent: 1 | Main_Reward: 12.986985751636029 | Energy_DS: 4.785266235961179 | Energy_Bst: 2.2587466736993647
+Iteration: 4000 | Agent: 2 | Main_Reward: -0.06184394030130396 | Energy_DS: 4.244149712807286 | Energy_Bst: 1.9124578864876711
+Iteration: 4000 | Agent: 3 | Main_Reward: -30.750877716040932 | Energy_DS: 4.556932982926978 | Energy_Bst: 2.4509511419969736
+Iteration: 4000 | Agent: 4 | Main_Reward: -38.31111597190332 | Energy_DS: 4.0830332187771665 | Energy_Bst: 1.820710206118903
+--------------------------------------
+ 
+Iteration: 5000 | Agent: 0 | Main_Reward: 1.4030802476975412 | Energy_DS: 4.708426293302724 | Energy_Bst: 2.0239772503543594
+Iteration: 5000 | Agent: 1 | Main_Reward: 15.078523049067504 | Energy_DS: 4.79409115995788 | Energy_Bst: 2.1668844615592313
+Iteration: 5000 | Agent: 2 | Main_Reward: 0.4277473069251733 | Energy_DS: 4.070241427847507 | Energy_Bst: 1.709551346497822
+Iteration: 5000 | Agent: 3 | Main_Reward: -32.54673505380488 | Energy_DS: 4.39139650600834 | Energy_Bst: 2.301105101250055
+Iteration: 5000 | Agent: 4 | Main_Reward: -38.82605600355051 | Energy_DS: 4.078931607687211 | Energy_Bst: 1.814041615774129
+--------------------------------------
+ 
+Iteration: 6000 | Agent: 0 | Main_Reward: 5.258737260006472 | Energy_DS: 4.726698754811405 | Energy_Bst: 2.319950808743245
+Iteration: 6000 | Agent: 1 | Main_Reward: 18.235056111798656 | Energy_DS: 4.57666875188404 | Energy_Bst: 2.0533384966365626
+Iteration: 6000 | Agent: 2 | Main_Reward: -2.393162104774627 | Energy_DS: 4.044227818541965 | Energy_Bst: 1.9289799516982575
+Iteration: 6000 | Agent: 3 | Main_Reward: -31.396282862332168 | Energy_DS: 4.2366809662812726 | Energy_Bst: 2.211383707820236
+Iteration: 6000 | Agent: 4 | Main_Reward: -36.6551512473168 | Energy_DS: 3.8550977742674783 | Energy_Bst: 1.6971145122944156
+--------------------------------------
+ 
+Iteration: 7000 | Agent: 0 | Main_Reward: 3.932243508185892 | Energy_DS: 4.778921720237536 | Energy_Bst: 2.1914272731339546
+Iteration: 7000 | Agent: 1 | Main_Reward: 14.758127845112508 | Energy_DS: 4.453903500828451 | Energy_Bst: 2.215351839555016
+Iteration: 7000 | Agent: 2 | Main_Reward: -3.0334758077601274 | Energy_DS: 4.170690383319731 | Energy_Bst: 1.9910319120564066
+Iteration: 7000 | Agent: 3 | Main_Reward: -29.902789628902323 | Energy_DS: 4.193316416786659 | Energy_Bst: 1.9302941600253398
+Iteration: 7000 | Agent: 4 | Main_Reward: -36.22186008585911 | Energy_DS: 3.9841164785495304 | Energy_Bst: 1.566655344459424
+--------------------------------------
+ 
+Iteration: 8000 | Agent: 0 | Main_Reward: 8.400463486290914 | Energy_DS: 4.145966013031002 | Energy_Bst: 1.9292959222796129
+Iteration: 8000 | Agent: 1 | Main_Reward: 11.275778494042157 | Energy_DS: 4.297869029424869 | Energy_Bst: 2.182086060131253
+Iteration: 8000 | Agent: 2 | Main_Reward: -6.640955451745801 | Energy_DS: 4.3996684200059475 | Energy_Bst: 2.272053489831864
+Iteration: 8000 | Agent: 3 | Main_Reward: -29.94198331845114 | Energy_DS: 4.0066385163143226 | Energy_Bst: 1.846064897263257
+Iteration: 8000 | Agent: 4 | Main_Reward: -38.44144372932382 | Energy_DS: 3.837982517723459 | Energy_Bst: 1.6503354024391725
+--------------------------------------
+ 
+Iteration: 9000 | Agent: 0 | Main_Reward: 3.55657235149887 | Energy_DS: 4.03329343485717 | Energy_Bst: 2.1500551289531593
+Iteration: 9000 | Agent: 1 | Main_Reward: 7.321692708924901 | Energy_DS: 5.037591509493025 | Energy_Bst: 2.670856380206503
+Iteration: 9000 | Agent: 2 | Main_Reward: -4.2313407410716914 | Energy_DS: 4.293933572661092 | Energy_Bst: 2.226768668874448
+Iteration: 9000 | Agent: 3 | Main_Reward: -31.011311554981795 | Energy_DS: 3.9994319285635225 | Energy_Bst: 1.8108679240729124
+Iteration: 9000 | Agent: 4 | Main_Reward: -42.07824047218857 | Energy_DS: 4.360074527489878 | Energy_Bst: 1.999043749679434
+--------------------------------------
+ 
+Iteration: 10000 | Agent: 0 | Main_Reward: 6.570451162445705 | Energy_DS: 4.337922167702512 | Energy_Bst: 2.42396059071429
+Iteration: 10000 | Agent: 1 | Main_Reward: 6.392203535151949 | Energy_DS: 4.988958645408666 | Energy_Bst: 2.662077203969623
+Iteration: 10000 | Agent: 2 | Main_Reward: -5.97799632027339 | Energy_DS: 4.00156331498668 | Energy_Bst: 2.0786184458110792
+Iteration: 10000 | Agent: 3 | Main_Reward: -30.16349557391664 | Energy_DS: 3.9108115697593324 | Energy_Bst: 1.8058520674748315
+Iteration: 10000 | Agent: 4 | Main_Reward: -40.76130279413927 | Energy_DS: 4.330685569669326 | Energy_Bst: 1.9547245880873616
+--------------------------------------
+ 
+Iteration: 11000 | Agent: 0 | Main_Reward: 4.296096373774316 | Energy_DS: 4.363326826142219 | Energy_Bst: 2.307099941975904
+Iteration: 11000 | Agent: 1 | Main_Reward: 9.520547074885668 | Energy_DS: 4.766674217195721 | Energy_Bst: 2.466038827984935
+Iteration: 11000 | Agent: 2 | Main_Reward: -4.46562269257642 | Energy_DS: 3.898642442446428 | Energy_Bst: 2.037160462445482
+Iteration: 11000 | Agent: 3 | Main_Reward: -32.27220041275765 | Energy_DS: 3.9051172299110823 | Energy_Bst: 1.7632880779163154
+Iteration: 11000 | Agent: 4 | Main_Reward: -43.562582229158075 | Energy_DS: 4.393969818745202 | Energy_Bst: 1.9601990412933892
+--------------------------------------
+ 
+Iteration: 12000 | Agent: 0 | Main_Reward: 4.219199060121306 | Energy_DS: 4.186822175466651 | Energy_Bst: 2.252710169419029
+Iteration: 12000 | Agent: 1 | Main_Reward: 12.923268530385098 | Energy_DS: 4.6060525883832275 | Energy_Bst: 2.460909740754068
+Iteration: 12000 | Agent: 2 | Main_Reward: -5.145652269442389 | Energy_DS: 4.238720669223643 | Energy_Bst: 2.1638400937348625
+Iteration: 12000 | Agent: 3 | Main_Reward: -37.174702740486424 | Energy_DS: 4.097753127253224 | Energy_Bst: 1.8912855935258437
+Iteration: 12000 | Agent: 4 | Main_Reward: -38.29502889176672 | Energy_DS: 4.672558048236227 | Energy_Bst: 2.196665551926189
+--------------------------------------
+ 
+Iteration: 13000 | Agent: 0 | Main_Reward: 5.488917422536413 | Energy_DS: 3.9680944697579514 | Energy_Bst: 2.10509745049478
+Iteration: 13000 | Agent: 1 | Main_Reward: 13.00337117437052 | Energy_DS: 4.909756520278781 | Energy_Bst: 2.670910963301254
+Iteration: 13000 | Agent: 2 | Main_Reward: -7.006137249184145 | Energy_DS: 4.41556427881475 | Energy_Bst: 2.2645806332093805
+Iteration: 13000 | Agent: 3 | Main_Reward: -34.4632304892829 | Energy_DS: 4.065244304968558 | Energy_Bst: 1.8350787080794624
+Iteration: 13000 | Agent: 4 | Main_Reward: -37.34217870111095 | Energy_DS: 5.047629927806262 | Energy_Bst: 2.450182637576982
+--------------------------------------
+ 
+Iteration: 14000 | Agent: 0 | Main_Reward: 2.380388186410217 | Energy_DS: 4.192891824171528 | Energy_Bst: 2.280443261607482
+Iteration: 14000 | Agent: 1 | Main_Reward: 15.222625302970615 | Energy_DS: 4.736646991082929 | Energy_Bst: 2.611652603023611
+Iteration: 14000 | Agent: 2 | Main_Reward: -5.564148851579044 | Energy_DS: 4.208163745658359 | Energy_Bst: 2.1085884276067723
+Iteration: 14000 | Agent: 3 | Main_Reward: -37.41329215993042 | Energy_DS: 4.270450112006164 | Energy_Bst: 1.9464132142261332
+Iteration: 14000 | Agent: 4 | Main_Reward: -35.937063879837055 | Energy_DS: 4.997975611226325 | Energy_Bst: 2.5887023094499937
+--------------------------------------
+ 
+Iteration: 15000 | Agent: 0 | Main_Reward: -0.41612305232479535 | Energy_DS: 4.189275149354641 | Energy_Bst: 2.174489961961
+Iteration: 15000 | Agent: 1 | Main_Reward: 16.38234391678648 | Energy_DS: 5.001284626047337 | Energy_Bst: 2.6850517223128088
+Iteration: 15000 | Agent: 2 | Main_Reward: -5.6454004041184715 | Energy_DS: 4.041089688608659 | Energy_Bst: 2.106312863129606
+Iteration: 15000 | Agent: 3 | Main_Reward: -40.10026118537127 | Energy_DS: 4.315335545608782 | Energy_Bst: 2.084749235518767
+Iteration: 15000 | Agent: 4 | Main_Reward: -38.934347902594894 | Energy_DS: 4.84604270065185 | Energy_Bst: 2.3819117258158933
+--------------------------------------
+ 
+Iteration: 16000 | Agent: 0 | Main_Reward: 3.007201688890436 | Energy_DS: 3.8563469111224014 | Energy_Bst: 2.051537024880608
+Iteration: 16000 | Agent: 1 | Main_Reward: 14.77804276336248 | Energy_DS: 5.249312418851401 | Energy_Bst: 2.906251477123046
+Iteration: 16000 | Agent: 2 | Main_Reward: -3.7335269492385477 | Energy_DS: 4.011984473209584 | Energy_Bst: 2.0440784923555357
+Iteration: 16000 | Agent: 3 | Main_Reward: -32.55254230681201 | Energy_DS: 4.584949818238258 | Energy_Bst: 2.0488976735931668
+Iteration: 16000 | Agent: 4 | Main_Reward: -46.75764612162537 | Energy_DS: 4.740237096885539 | Energy_Bst: 2.214095644570586
+--------------------------------------
+ 
+Iteration: 17000 | Agent: 0 | Main_Reward: -2.3848262330350796 | Energy_DS: 3.881442684316206 | Energy_Bst: 1.9917516215874114
+Iteration: 17000 | Agent: 1 | Main_Reward: 14.513770360824795 | Energy_DS: 5.345155125567136 | Energy_Bst: 3.0107768763189453
+Iteration: 17000 | Agent: 2 | Main_Reward: -4.281159876746002 | Energy_DS: 4.231786384450262 | Energy_Bst: 2.183473511623862
+Iteration: 17000 | Agent: 3 | Main_Reward: -30.414295924051753 | Energy_DS: 5.241272952201618 | Energy_Bst: 2.4573199482893395
+Iteration: 17000 | Agent: 4 | Main_Reward: -48.07593547234412 | Energy_DS: 4.851595291497771 | Energy_Bst: 2.2491597024785843
+--------------------------------------
+ 
+Iteration: 18000 | Agent: 0 | Main_Reward: 3.3540687200144546 | Energy_DS: 4.01521960983027 | Energy_Bst: 2.001675611998089
+Iteration: 18000 | Agent: 1 | Main_Reward: 15.142874881128908 | Energy_DS: 5.382060749678131 | Energy_Bst: 2.9031459744688335
+Iteration: 18000 | Agent: 2 | Main_Reward: -1.5125854058872765 | Energy_DS: 4.3400535334285255 | Energy_Bst: 2.102457189720431
+Iteration: 18000 | Agent: 3 | Main_Reward: -32.069426798480336 | Energy_DS: 5.41328196262463 | Energy_Bst: 2.361530487015313
+Iteration: 18000 | Agent: 4 | Main_Reward: -45.08344831881239 | Energy_DS: 4.897533818669765 | Energy_Bst: 2.134690825491412
+--------------------------------------
+ 
+Iteration: 19000 | Agent: 0 | Main_Reward: 2.394056779405199 | Energy_DS: 4.2046824612394955 | Energy_Bst: 2.155310599162601
+Iteration: 19000 | Agent: 1 | Main_Reward: 13.993456784440134 | Energy_DS: 5.482341494454038 | Energy_Bst: 3.0712557736242583
+Iteration: 19000 | Agent: 2 | Main_Reward: -2.3921972611945104 | Energy_DS: 4.322117753122043 | Energy_Bst: 2.0095184005824716
+Iteration: 19000 | Agent: 3 | Main_Reward: -29.30323332740109 | Energy_DS: 5.382844322987017 | Energy_Bst: 2.192826415681385
+Iteration: 19000 | Agent: 4 | Main_Reward: -41.41922763634439 | Energy_DS: 5.204934113042522 | Energy_Bst: 2.0792206246725184
+--------------------------------------
+ 
+Iteration: 20000 | Agent: 0 | Main_Reward: 4.6254429790157845 | Energy_DS: 4.90787290132646 | Energy_Bst: 2.5020377970155447
+Iteration: 20000 | Agent: 1 | Main_Reward: 15.48547701931395 | Energy_DS: 5.181854206682934 | Energy_Bst: 2.7264072448506367
+Iteration: 20000 | Agent: 2 | Main_Reward: -9.313278966186209 | Energy_DS: 4.285342703392241 | Energy_Bst: 1.912026267598283
+Iteration: 20000 | Agent: 3 | Main_Reward: -28.042021507920303 | Energy_DS: 5.404927238542741 | Energy_Bst: 2.2392969796399766
+Iteration: 20000 | Agent: 4 | Main_Reward: -37.61561231305284 | Energy_DS: 5.485216167955598 | Energy_Bst: 2.3227168250621215
+--------------------------------------
+ 
+Iteration: 21000 | Agent: 0 | Main_Reward: 2.92561751445773 | Energy_DS: 5.044303749723667 | Energy_Bst: 2.6184288554091393
+Iteration: 21000 | Agent: 1 | Main_Reward: 14.877874356507302 | Energy_DS: 5.401700130037788 | Energy_Bst: 3.012553701867055
+Iteration: 21000 | Agent: 2 | Main_Reward: -6.752883852353793 | Energy_DS: 4.283630780797574 | Energy_Bst: 1.877372612246332
+Iteration: 21000 | Agent: 3 | Main_Reward: -30.58000290607707 | Energy_DS: 5.215909127822874 | Energy_Bst: 2.2539261545725493
+Iteration: 21000 | Agent: 4 | Main_Reward: -34.80026568954733 | Energy_DS: 5.457385323354655 | Energy_Bst: 2.183288713536834
+--------------------------------------
+ 
+Iteration: 22000 | Agent: 0 | Main_Reward: 5.899240722641642 | Energy_DS: 5.091917268139499 | Energy_Bst: 2.804688367276941
+Iteration: 22000 | Agent: 1 | Main_Reward: 13.639721828228502 | Energy_DS: 5.422490728038522 | Energy_Bst: 2.9340971447997686
+Iteration: 22000 | Agent: 2 | Main_Reward: -3.825563860716018 | Energy_DS: 4.250580060732402 | Energy_Bst: 1.8218981064598962
+Iteration: 22000 | Agent: 3 | Main_Reward: -27.23181210787356 | Energy_DS: 5.199794442329192 | Energy_Bst: 2.219859508187393
+Iteration: 22000 | Agent: 4 | Main_Reward: -35.39972291765521 | Energy_DS: 5.36353397728465 | Energy_Bst: 2.2336751106425745
+--------------------------------------
+ 
+Iteration: 23000 | Agent: 0 | Main_Reward: 2.4320689024365225 | Energy_DS: 5.206666679032593 | Energy_Bst: 2.9571367614934467
+Iteration: 23000 | Agent: 1 | Main_Reward: 15.000876136655876 | Energy_DS: 5.338260140806649 | Energy_Bst: 2.8676323276170916
+Iteration: 23000 | Agent: 2 | Main_Reward: -6.980211741748219 | Energy_DS: 4.6237573870625965 | Energy_Bst: 2.024888110846811
+Iteration: 23000 | Agent: 3 | Main_Reward: -28.3951998607655 | Energy_DS: 5.374197860861901 | Energy_Bst: 2.46739082549773
+Iteration: 23000 | Agent: 4 | Main_Reward: -35.503889776310324 | Energy_DS: 5.376411118949841 | Energy_Bst: 2.2700377088775032
+--------------------------------------
+ 
+Iteration: 24000 | Agent: 0 | Main_Reward: 0.6168235349946667 | Energy_DS: 5.288051375133287 | Energy_Bst: 2.8349891775571505
+Iteration: 24000 | Agent: 1 | Main_Reward: 14.53821177175028 | Energy_DS: 5.389573219356701 | Energy_Bst: 2.9447246832907585
+Iteration: 24000 | Agent: 2 | Main_Reward: -5.3759879413867395 | Energy_DS: 4.411014442942409 | Energy_Bst: 1.7819636328557824
+Iteration: 24000 | Agent: 3 | Main_Reward: -29.26794364877252 | Energy_DS: 5.102266854417604 | Energy_Bst: 1.9155788662093955
+Iteration: 24000 | Agent: 4 | Main_Reward: -35.64627759856012 | Energy_DS: 5.67005160171409 | Energy_Bst: 2.462042950149305
+--------------------------------------
+ 
+Iteration: 25000 | Agent: 0 | Main_Reward: 5.445981063677778 | Energy_DS: 5.221236951519695 | Energy_Bst: 2.977608630199059
+Iteration: 25000 | Agent: 1 | Main_Reward: 14.678568179875304 | Energy_DS: 5.365188923581598 | Energy_Bst: 3.0390978165847944
+Iteration: 25000 | Agent: 2 | Main_Reward: -2.246115594416855 | Energy_DS: 4.516182235379389 | Energy_Bst: 1.8911016873849644
+Iteration: 25000 | Agent: 3 | Main_Reward: -31.689567612568776 | Energy_DS: 5.458531817027119 | Energy_Bst: 2.253701550155588
+Iteration: 25000 | Agent: 4 | Main_Reward: -38.03622318111478 | Energy_DS: 5.404976276661346 | Energy_Bst: 2.6539111296367874
+--------------------------------------
+ 
+Iteration: 26000 | Agent: 0 | Main_Reward: 3.071132119910282 | Energy_DS: 5.2880414383859105 | Energy_Bst: 2.909167641757576
+Iteration: 26000 | Agent: 1 | Main_Reward: 16.77264332929656 | Energy_DS: 5.367830491385345 | Energy_Bst: 3.014367770369506
+Iteration: 26000 | Agent: 2 | Main_Reward: -5.9586812707898735 | Energy_DS: 4.837149684572909 | Energy_Bst: 1.938156595838103
+Iteration: 26000 | Agent: 3 | Main_Reward: -30.44711367037091 | Energy_DS: 5.567840507350671 | Energy_Bst: 2.178096656980207
+Iteration: 26000 | Agent: 4 | Main_Reward: -38.264418248914986 | Energy_DS: 5.409730203535437 | Energy_Bst: 2.7667535279185067
+--------------------------------------
+ 
+Iteration: 27000 | Agent: 0 | Main_Reward: 2.4126498164621273 | Energy_DS: 5.030202993796164 | Energy_Bst: 2.6543229693088954
+Iteration: 27000 | Agent: 1 | Main_Reward: 14.133311274388992 | Energy_DS: 5.385673966468461 | Energy_Bst: 2.897396528048077
+Iteration: 27000 | Agent: 2 | Main_Reward: -4.0616990505337345 | Energy_DS: 4.778771048095467 | Energy_Bst: 1.6848866117489105
+Iteration: 27000 | Agent: 3 | Main_Reward: -31.151712496136618 | Energy_DS: 5.701470230800669 | Energy_Bst: 2.0992172192371017
+Iteration: 27000 | Agent: 4 | Main_Reward: -37.26453598845759 | Energy_DS: 5.490464708008251 | Energy_Bst: 2.640248563672105
+--------------------------------------
+ 
+Iteration: 28000 | Agent: 0 | Main_Reward: 3.84573349624299 | Energy_DS: 4.546081773142414 | Energy_Bst: 2.3679548398705355
+Iteration: 28000 | Agent: 1 | Main_Reward: 15.957537565636052 | Energy_DS: 5.041074827262494 | Energy_Bst: 2.6959630057245314
+Iteration: 28000 | Agent: 2 | Main_Reward: -6.141761954724159 | Energy_DS: 4.511438780070991 | Energy_Bst: 1.6920915250033337
+Iteration: 28000 | Agent: 3 | Main_Reward: -33.571792805806105 | Energy_DS: 5.938501740045948 | Energy_Bst: 2.201564948731911
+Iteration: 28000 | Agent: 4 | Main_Reward: -36.29976591970573 | Energy_DS: 5.446756345217677 | Energy_Bst: 2.9118647131061435
+--------------------------------------
+ 
+Iteration: 29000 | Agent: 0 | Main_Reward: -8.238685657544291 | Energy_DS: 4.913194834009766 | Energy_Bst: 2.762327758117978
+Iteration: 29000 | Agent: 1 | Main_Reward: 16.073341074762627 | Energy_DS: 4.550950208494106 | Energy_Bst: 2.4270157036687516
+Iteration: 29000 | Agent: 2 | Main_Reward: -3.6824723571864717 | Energy_DS: 4.125919113467462 | Energy_Bst: 1.5150256471383114
+Iteration: 29000 | Agent: 3 | Main_Reward: -33.27290318955598 | Energy_DS: 5.804767112256922 | Energy_Bst: 2.2285069213273223
+Iteration: 29000 | Agent: 4 | Main_Reward: -37.510798882413596 | Energy_DS: 5.322650627256743 | Energy_Bst: 2.9614240338845232
+--------------------------------------
+ 
+Iteration: 30000 | Agent: 0 | Main_Reward: -15.34936143457291 | Energy_DS: 5.36263571654589 | Energy_Bst: 2.78389295318223
+Iteration: 30000 | Agent: 1 | Main_Reward: 14.940671024590022 | Energy_DS: 4.668531054790507 | Energy_Bst: 2.5265247387316854
+Iteration: 30000 | Agent: 2 | Main_Reward: -1.2361986831460763 | Energy_DS: 4.491895164081703 | Energy_Bst: 1.4403218174815682
+Iteration: 30000 | Agent: 3 | Main_Reward: -35.125915962238565 | Energy_DS: 5.552790840539133 | Energy_Bst: 1.849332150268259
+Iteration: 30000 | Agent: 4 | Main_Reward: -36.5747354453635 | Energy_DS: 5.351780052315521 | Energy_Bst: 2.8280000411539596
+--------------------------------------
+ 
+Iteration: 31000 | Agent: 0 | Main_Reward: -9.292935189058909 | Energy_DS: 5.012192280170408 | Energy_Bst: 2.615139415040538
+Iteration: 31000 | Agent: 1 | Main_Reward: 19.015739738347072 | Energy_DS: 4.264666774816153 | Energy_Bst: 2.141028556651834
+Iteration: 31000 | Agent: 2 | Main_Reward: -1.7845221337645387 | Energy_DS: 4.40836324375011 | Energy_Bst: 1.458651835436734
+Iteration: 31000 | Agent: 3 | Main_Reward: -32.43938942516109 | Energy_DS: 5.576593326238102 | Energy_Bst: 2.0324327347409454
+Iteration: 31000 | Agent: 4 | Main_Reward: -35.299168799103484 | Energy_DS: 5.421950924481156 | Energy_Bst: 2.893309886136803
+--------------------------------------
+ 
+Iteration: 32000 | Agent: 0 | Main_Reward: 3.41886900405512 | Energy_DS: 4.948900920558976 | Energy_Bst: 2.5584798302874856
+Iteration: 32000 | Agent: 1 | Main_Reward: 4.868549226921265 | Energy_DS: 5.114173682870251 | Energy_Bst: 2.69122995416543
+Iteration: 32000 | Agent: 2 | Main_Reward: -0.12627771775272656 | Energy_DS: 4.246716607463518 | Energy_Bst: 1.3912920307558858
+Iteration: 32000 | Agent: 3 | Main_Reward: -34.00581819761827 | Energy_DS: 5.005528363138045 | Energy_Bst: 1.6158110366612208
+Iteration: 32000 | Agent: 4 | Main_Reward: -34.97177971978549 | Energy_DS: 5.448311694976606 | Energy_Bst: 2.908029140103086
+--------------------------------------
+ 
+Iteration: 33000 | Agent: 0 | Main_Reward: 4.246885379123049 | Energy_DS: 5.443536745629981 | Energy_Bst: 2.740091088190778
+Iteration: 33000 | Agent: 1 | Main_Reward: 2.6233835727382084 | Energy_DS: 5.51302410927271 | Energy_Bst: 2.8197560920434124
+Iteration: 33000 | Agent: 2 | Main_Reward: -1.2691147626395185 | Energy_DS: 4.073726938421813 | Energy_Bst: 1.2809615272296193
+Iteration: 33000 | Agent: 3 | Main_Reward: -33.14514543623661 | Energy_DS: 5.120222280005496 | Energy_Bst: 1.5911247524174492
+Iteration: 33000 | Agent: 4 | Main_Reward: -34.206287442483394 | Energy_DS: 5.723542459081191 | Energy_Bst: 2.997115441081387
+--------------------------------------
+ 
+Iteration: 34000 | Agent: 0 | Main_Reward: 1.3402078760154528 | Energy_DS: 5.401453445930321 | Energy_Bst: 2.771648786899653
+Iteration: 34000 | Agent: 1 | Main_Reward: 1.7748456918043651 | Energy_DS: 5.32974054684937 | Energy_Bst: 2.699156790747646
+Iteration: 34000 | Agent: 2 | Main_Reward: -1.2533369133538468 | Energy_DS: 4.349934091621734 | Energy_Bst: 1.2935590225250218
+Iteration: 34000 | Agent: 3 | Main_Reward: -29.787595651135636 | Energy_DS: 4.885874245390447 | Energy_Bst: 1.3103204248517044
+Iteration: 34000 | Agent: 4 | Main_Reward: -36.89102203431446 | Energy_DS: 5.935464723953628 | Energy_Bst: 3.0223229304787793
+--------------------------------------
+ 
+Iteration: 35000 | Agent: 0 | Main_Reward: 3.047500723480467 | Energy_DS: 5.328291069404228 | Energy_Bst: 2.656522377830151
+Iteration: 35000 | Agent: 1 | Main_Reward: 6.197699470068222 | Energy_DS: 4.904447810939957 | Energy_Bst: 2.4381381858980897
+Iteration: 35000 | Agent: 2 | Main_Reward: 0.22783000883977428 | Energy_DS: 4.013857064830505 | Energy_Bst: 1.2251706329365637
+Iteration: 35000 | Agent: 3 | Main_Reward: -29.528798097568266 | Energy_DS: 5.538175042272128 | Energy_Bst: 1.7647327904934174
+Iteration: 35000 | Agent: 4 | Main_Reward: -40.79733795201657 | Energy_DS: 5.78077153898733 | Energy_Bst: 3.057982619551584
+--------------------------------------
+ 
+Iteration: 36000 | Agent: 0 | Main_Reward: 3.1797383819545226 | Energy_DS: 5.527577536369778 | Energy_Bst: 2.970053729983705
+Iteration: 36000 | Agent: 1 | Main_Reward: 15.138688842354538 | Energy_DS: 4.7247962663286565 | Energy_Bst: 2.207682599554858
+Iteration: 36000 | Agent: 2 | Main_Reward: 1.384494531145126 | Energy_DS: 3.8074165365591974 | Energy_Bst: 1.2382058870556807
+Iteration: 36000 | Agent: 3 | Main_Reward: -29.997818799287057 | Energy_DS: 5.512328251329793 | Energy_Bst: 1.8144567799097797
+Iteration: 36000 | Agent: 4 | Main_Reward: -40.309102803099606 | Energy_DS: 5.471999390787468 | Energy_Bst: 3.1314222149486723
+--------------------------------------
+ 
+Iteration: 37000 | Agent: 0 | Main_Reward: 4.546889565233261 | Energy_DS: 5.54660788034513 | Energy_Bst: 2.989598365528338
+Iteration: 37000 | Agent: 1 | Main_Reward: 16.33544041026161 | Energy_DS: 5.061486160217231 | Energy_Bst: 2.3520410863291272
+Iteration: 37000 | Agent: 2 | Main_Reward: 0.2432335468633057 | Energy_DS: 3.7577213685575326 | Energy_Bst: 1.0795606054470683
+Iteration: 37000 | Agent: 3 | Main_Reward: -28.94916492953355 | Energy_DS: 5.491266452410751 | Energy_Bst: 1.7404358355361698
+Iteration: 37000 | Agent: 4 | Main_Reward: -44.302647224291455 | Energy_DS: 4.5029338300484145 | Energy_Bst: 2.465886072583152
+--------------------------------------
+ 
+Iteration: 38000 | Agent: 0 | Main_Reward: 2.7274782280857273 | Energy_DS: 5.125232738488482 | Energy_Bst: 2.6727803319074095
+Iteration: 38000 | Agent: 1 | Main_Reward: 18.44429925126925 | Energy_DS: 5.236143036904251 | Energy_Bst: 2.4967956531804774
+Iteration: 38000 | Agent: 2 | Main_Reward: 3.296589221355199 | Energy_DS: 3.635127901674255 | Energy_Bst: 1.070125650742151
+Iteration: 38000 | Agent: 3 | Main_Reward: -29.457060503853025 | Energy_DS: 5.547608040394871 | Energy_Bst: 1.859692402093886
+Iteration: 38000 | Agent: 4 | Main_Reward: -38.76921664453744 | Energy_DS: 4.414998887583395 | Energy_Bst: 2.491648792650649
+--------------------------------------
+ 
+Iteration: 39000 | Agent: 0 | Main_Reward: 0.6857983831318775 | Energy_DS: 4.992596837015879 | Energy_Bst: 2.5428197206659218
+Iteration: 39000 | Agent: 1 | Main_Reward: 16.64416779816642 | Energy_DS: 5.317680228027559 | Energy_Bst: 2.6370809034129077
+Iteration: 39000 | Agent: 2 | Main_Reward: 0.13058064075046322 | Energy_DS: 3.933257588851122 | Energy_Bst: 1.1480534936363715
+Iteration: 39000 | Agent: 3 | Main_Reward: -27.454839029295687 | Energy_DS: 5.420100720963291 | Energy_Bst: 1.6329659552103726
+Iteration: 39000 | Agent: 4 | Main_Reward: -39.352416542218364 | Energy_DS: 4.783367024882393 | Energy_Bst: 2.968708703840102
+--------------------------------------
+ 
+Iteration: 40000 | Agent: 0 | Main_Reward: 3.898667415982968 | Energy_DS: 5.140463828020119 | Energy_Bst: 2.659050083901176
+Iteration: 40000 | Agent: 1 | Main_Reward: 14.759672664926615 | Energy_DS: 5.310930370265216 | Energy_Bst: 2.7818291922770157
+Iteration: 40000 | Agent: 2 | Main_Reward: 3.1928463922144323 | Energy_DS: 3.908949539093123 | Energy_Bst: 1.2433088521354856
+Iteration: 40000 | Agent: 3 | Main_Reward: -29.194351017421464 | Energy_DS: 5.2880979997012 | Energy_Bst: 1.7191714504990052
+Iteration: 40000 | Agent: 4 | Main_Reward: -41.57337838588789 | Energy_DS: 4.650295933633108 | Energy_Bst: 3.009514578418761
+--------------------------------------
+ 
+Iteration: 41000 | Agent: 0 | Main_Reward: 0.20736446692622174 | Energy_DS: 5.506004092187494 | Energy_Bst: 2.825065620217825
+Iteration: 41000 | Agent: 1 | Main_Reward: 15.21299026623067 | Energy_DS: 5.279914528264851 | Energy_Bst: 2.8462028500264878
+Iteration: 41000 | Agent: 2 | Main_Reward: 1.689939386433126 | Energy_DS: 3.9285508255499697 | Energy_Bst: 1.2149361349577101
+Iteration: 41000 | Agent: 3 | Main_Reward: -29.456636480745686 | Energy_DS: 4.794512043068614 | Energy_Bst: 1.589572444837342
+Iteration: 41000 | Agent: 4 | Main_Reward: -37.12746687585462 | Energy_DS: 4.638435976510265 | Energy_Bst: 2.70671469426266
+--------------------------------------
+ 
+Iteration: 42000 | Agent: 0 | Main_Reward: 3.7191080861146335 | Energy_DS: 6.647391652957403 | Energy_Bst: 3.4663978608814583
+Iteration: 42000 | Agent: 1 | Main_Reward: 15.817668744960018 | Energy_DS: 5.167839961588036 | Energy_Bst: 2.753957250644002
+Iteration: 42000 | Agent: 2 | Main_Reward: 2.2164847847920512 | Energy_DS: 4.119063271654086 | Energy_Bst: 1.3277798131524503
+Iteration: 42000 | Agent: 3 | Main_Reward: -30.84055314313152 | Energy_DS: 5.036010076065473 | Energy_Bst: 1.632369959103532
+Iteration: 42000 | Agent: 4 | Main_Reward: -36.974736498884326 | Energy_DS: 5.275251225219904 | Energy_Bst: 3.452262137252728
+--------------------------------------
+ 
+Iteration: 43000 | Agent: 0 | Main_Reward: -6.30945783443085 | Energy_DS: 7.063440160646036 | Energy_Bst: 3.699295016149571
+Iteration: 43000 | Agent: 1 | Main_Reward: 14.556473312477873 | Energy_DS: 5.08124362028626 | Energy_Bst: 2.6350543663848742
+Iteration: 43000 | Agent: 2 | Main_Reward: 1.8146907759608353 | Energy_DS: 3.8575386714666187 | Energy_Bst: 1.2303240798043265
+Iteration: 43000 | Agent: 3 | Main_Reward: -29.400929527288422 | Energy_DS: 4.978129986412352 | Energy_Bst: 1.8444773482937213
+Iteration: 43000 | Agent: 4 | Main_Reward: -37.049337788515246 | Energy_DS: 5.7588060441744195 | Energy_Bst: 3.4581517603823135
+--------------------------------------
+ 
+Iteration: 44000 | Agent: 0 | Main_Reward: -8.57367646208131 | Energy_DS: 7.344100131557454 | Energy_Bst: 3.233464108099028
+Iteration: 44000 | Agent: 1 | Main_Reward: 14.452761585091435 | Energy_DS: 5.135260871897116 | Energy_Bst: 2.5991785445755413
+Iteration: 44000 | Agent: 2 | Main_Reward: 2.6787468326721653 | Energy_DS: 3.86788074194237 | Energy_Bst: 1.32717383312472
+Iteration: 44000 | Agent: 3 | Main_Reward: -29.792028246586828 | Energy_DS: 4.888217609612563 | Energy_Bst: 1.9693658764424342
+Iteration: 44000 | Agent: 4 | Main_Reward: -41.07563887601164 | Energy_DS: 6.381819985116475 | Energy_Bst: 3.727118673748622
+--------------------------------------
+ 
+Iteration: 45000 | Agent: 0 | Main_Reward: -5.141562014284234 | Energy_DS: 5.942454948826966 | Energy_Bst: 2.9391220208413467
+Iteration: 45000 | Agent: 1 | Main_Reward: 12.12211558778203 | Energy_DS: 4.893519803204653 | Energy_Bst: 2.4457453933340045
+Iteration: 45000 | Agent: 2 | Main_Reward: 1.0946103028592487 | Energy_DS: 3.6279470830293317 | Energy_Bst: 1.5731382484483076
+Iteration: 45000 | Agent: 3 | Main_Reward: -28.176355330791772 | Energy_DS: 4.888446503673611 | Energy_Bst: 2.3142021993198676
+Iteration: 45000 | Agent: 4 | Main_Reward: -42.564932729522944 | Energy_DS: 5.880220798918247 | Energy_Bst: 3.469394606364242
+--------------------------------------
+ 
+Iteration: 46000 | Agent: 0 | Main_Reward: -19.60057861288857 | Energy_DS: 5.5130067442072415 | Energy_Bst: 3.0841917569367188
+Iteration: 46000 | Agent: 1 | Main_Reward: 13.645102089167638 | Energy_DS: 4.284430911096828 | Energy_Bst: 1.925071715161776
+Iteration: 46000 | Agent: 2 | Main_Reward: 0.6213205348458438 | Energy_DS: 3.643148003328085 | Energy_Bst: 1.5596358306351132
+Iteration: 46000 | Agent: 3 | Main_Reward: -28.06676997425581 | Energy_DS: 5.017395233690386 | Energy_Bst: 1.960712159813463
+Iteration: 46000 | Agent: 4 | Main_Reward: -45.417528259686705 | Energy_DS: 5.116756190333602 | Energy_Bst: 3.024644541139448
+--------------------------------------
+ 
+Iteration: 47000 | Agent: 0 | Main_Reward: -22.84140582054007 | Energy_DS: 5.691374155797904 | Energy_Bst: 3.3373738900350602
+Iteration: 47000 | Agent: 1 | Main_Reward: 16.357596173269098 | Energy_DS: 4.086942574123464 | Energy_Bst: 1.8445790906544088
+Iteration: 47000 | Agent: 2 | Main_Reward: 2.2546092973486207 | Energy_DS: 3.5371492891463383 | Energy_Bst: 1.7770736891419199
+Iteration: 47000 | Agent: 3 | Main_Reward: -28.31137734157571 | Energy_DS: 5.25944129706143 | Energy_Bst: 2.4013035736698294
+Iteration: 47000 | Agent: 4 | Main_Reward: -39.17313941275024 | Energy_DS: 4.10707694800021 | Energy_Bst: 2.244984617090858
+--------------------------------------
+ 
+Iteration: 48000 | Agent: 0 | Main_Reward: -15.110747662846395 | Energy_DS: 4.995885954630325 | Energy_Bst: 2.9002781805053863
+Iteration: 48000 | Agent: 1 | Main_Reward: 17.087301944513012 | Energy_DS: 4.240960195324341 | Energy_Bst: 1.9262024059634812
+Iteration: 48000 | Agent: 2 | Main_Reward: 2.176619296167569 | Energy_DS: 3.645229892918839 | Energy_Bst: 1.8840537215334947
+Iteration: 48000 | Agent: 3 | Main_Reward: -28.976840078987042 | Energy_DS: 5.411552907962203 | Energy_Bst: 2.7051500984836125
+Iteration: 48000 | Agent: 4 | Main_Reward: -32.68126588355157 | Energy_DS: 3.986084734591738 | Energy_Bst: 1.9803929894410817
+--------------------------------------
+ 
+Iteration: 49000 | Agent: 0 | Main_Reward: 4.023244895680667 | Energy_DS: 5.275225289226763 | Energy_Bst: 3.3061308793751443
+Iteration: 49000 | Agent: 1 | Main_Reward: 15.723740274450517 | Energy_DS: 3.773072762381216 | Energy_Bst: 1.5853323411259526
+Iteration: 49000 | Agent: 2 | Main_Reward: 0.05016606211993736 | Energy_DS: 3.5382652076886454 | Energy_Bst: 1.759973146063204
+Iteration: 49000 | Agent: 3 | Main_Reward: -27.543667334295392 | Energy_DS: 5.689921705083894 | Energy_Bst: 2.74000351614617
+Iteration: 49000 | Agent: 4 | Main_Reward: -33.868433655337626 | Energy_DS: 4.031851707756639 | Energy_Bst: 2.2208536834620842
+--------------------------------------
+ 
+Iteration: 50000 | Agent: 0 | Main_Reward: 0.4363430823562446 | Energy_DS: 5.413159968642201 | Energy_Bst: 3.3691534924556152
+Iteration: 50000 | Agent: 1 | Main_Reward: 16.371462375350156 | Energy_DS: 3.8749062442535216 | Energy_Bst: 1.81122231345688
+Iteration: 50000 | Agent: 2 | Main_Reward: -1.0176330983670563 | Energy_DS: 3.6751294146371936 | Energy_Bst: 1.8006665830846453
+Iteration: 50000 | Agent: 3 | Main_Reward: -26.623220552398852 | Energy_DS: 5.315227978160398 | Energy_Bst: 2.4132870132135174
+Iteration: 50000 | Agent: 4 | Main_Reward: -35.01517370550946 | Energy_DS: 4.370947975778674 | Energy_Bst: 2.5182807186597236
+--------------------------------------
+ 
+Iteration: 51000 | Agent: 0 | Main_Reward: 5.371291304584954 | Energy_DS: 4.853030740253364 | Energy_Bst: 3.090905923604951
+Iteration: 51000 | Agent: 1 | Main_Reward: 20.376202864943853 | Energy_DS: 3.864786004363738 | Energy_Bst: 1.7215622641689041
+Iteration: 51000 | Agent: 2 | Main_Reward: -0.9325902771895558 | Energy_DS: 3.6597582137958056 | Energy_Bst: 1.8076592910950013
+Iteration: 51000 | Agent: 3 | Main_Reward: -27.637283941423487 | Energy_DS: 4.80520870297321 | Energy_Bst: 2.1856620193004876
+Iteration: 51000 | Agent: 4 | Main_Reward: -33.598712501566766 | Energy_DS: 3.8650070314629814 | Energy_Bst: 2.2886290992120606
+--------------------------------------
+ 
+Iteration: 52000 | Agent: 0 | Main_Reward: 5.527297125171006 | Energy_DS: 5.048017746666912 | Energy_Bst: 3.155903600406549
+Iteration: 52000 | Agent: 1 | Main_Reward: 19.656580484702193 | Energy_DS: 3.777567623317863 | Energy_Bst: 1.5661735437307158
+Iteration: 52000 | Agent: 2 | Main_Reward: -0.46382784395198756 | Energy_DS: 3.515805117482208 | Energy_Bst: 1.788859847022864
+Iteration: 52000 | Agent: 3 | Main_Reward: -24.09493899524313 | Energy_DS: 4.492769371303777 | Energy_Bst: 1.8323681833123884
+Iteration: 52000 | Agent: 4 | Main_Reward: -33.930485638147175 | Energy_DS: 3.4822311354357103 | Energy_Bst: 1.9475612643163334
+--------------------------------------
+ 
+Iteration: 53000 | Agent: 0 | Main_Reward: 5.643600993804934 | Energy_DS: 4.979798897686206 | Energy_Bst: 3.035502437010097
+Iteration: 53000 | Agent: 1 | Main_Reward: 19.659683258707126 | Energy_DS: 3.6449142655491786 | Energy_Bst: 1.5227650852119599
+Iteration: 53000 | Agent: 2 | Main_Reward: 1.427736859658487 | Energy_DS: 3.516290579235088 | Energy_Bst: 1.7056039198761095
+Iteration: 53000 | Agent: 3 | Main_Reward: -25.104541418812364 | Energy_DS: 4.145217185397478 | Energy_Bst: 1.6590531725528856
+Iteration: 53000 | Agent: 4 | Main_Reward: -32.797816115508205 | Energy_DS: 3.574309531493221 | Energy_Bst: 1.8449902839095016
+--------------------------------------
+ 
+Iteration: 54000 | Agent: 0 | Main_Reward: 5.795866375331678 | Energy_DS: 5.030462346778741 | Energy_Bst: 3.221152181058268
+Iteration: 54000 | Agent: 1 | Main_Reward: 21.04513131925377 | Energy_DS: 3.6756859565176008 | Energy_Bst: 1.6706641033339382
+Iteration: 54000 | Agent: 2 | Main_Reward: -5.473841419412316 | Energy_DS: 3.9899792977996245 | Energy_Bst: 2.1015235293689143
+Iteration: 54000 | Agent: 3 | Main_Reward: -27.619246105493357 | Energy_DS: 3.8786423277901427 | Energy_Bst: 1.6368316504653284
+Iteration: 54000 | Agent: 4 | Main_Reward: -33.210707096278206 | Energy_DS: 3.6378697253059875 | Energy_Bst: 1.9634949935698842
+--------------------------------------
+ 
+Iteration: 55000 | Agent: 0 | Main_Reward: 3.292002198991295 | Energy_DS: 4.995095641335933 | Energy_Bst: 3.0551967520296897
+Iteration: 55000 | Agent: 1 | Main_Reward: 17.53396082327847 | Energy_DS: 3.7026790527144353 | Energy_Bst: 1.6681395371216177
+Iteration: 55000 | Agent: 2 | Main_Reward: -0.4073638782280708 | Energy_DS: 3.866919504786833 | Energy_Bst: 1.8749274890297403
+Iteration: 55000 | Agent: 3 | Main_Reward: -24.77187244208909 | Energy_DS: 4.369516840319748 | Energy_Bst: 1.6427758352934225
+Iteration: 55000 | Agent: 4 | Main_Reward: -31.330620793340838 | Energy_DS: 3.58495488396722 | Energy_Bst: 1.8822856232275569
+--------------------------------------
+ 
+Iteration: 56000 | Agent: 0 | Main_Reward: 4.850274792157781 | Energy_DS: 5.081798959537189 | Energy_Bst: 3.128359691442823
+Iteration: 56000 | Agent: 1 | Main_Reward: 22.40414297867051 | Energy_DS: 3.5892397777139937 | Energy_Bst: 1.4993805881783557
+Iteration: 56000 | Agent: 2 | Main_Reward: 1.0171863165047565 | Energy_DS: 3.5446933324124292 | Energy_Bst: 1.7560090230094705
+Iteration: 56000 | Agent: 3 | Main_Reward: -23.92846121034678 | Energy_DS: 4.427149296213122 | Energy_Bst: 1.6035556597816683
+Iteration: 56000 | Agent: 4 | Main_Reward: -33.67613850647161 | Energy_DS: 3.3308975085187575 | Energy_Bst: 1.722189402619759
+--------------------------------------
+ 
+Iteration: 57000 | Agent: 0 | Main_Reward: 4.58395939185525 | Energy_DS: 4.995475949422979 | Energy_Bst: 3.2307028584949005
+Iteration: 57000 | Agent: 1 | Main_Reward: 21.983987656915545 | Energy_DS: 3.7088217322505743 | Energy_Bst: 1.5850552706646177
+Iteration: 57000 | Agent: 2 | Main_Reward: 2.765310432477235 | Energy_DS: 3.609630518349733 | Energy_Bst: 1.99947197327308
+Iteration: 57000 | Agent: 3 | Main_Reward: -27.147377195278487 | Energy_DS: 4.384543709867083 | Energy_Bst: 1.6871285452299194
+Iteration: 57000 | Agent: 4 | Main_Reward: -30.76432632285378 | Energy_DS: 3.5163577188292363 | Energy_Bst: 1.870501004986169
+--------------------------------------
+ 
+Iteration: 58000 | Agent: 0 | Main_Reward: 5.093677169320941 | Energy_DS: 5.133304262193055 | Energy_Bst: 3.264264816103174
+Iteration: 58000 | Agent: 1 | Main_Reward: 20.792787694979538 | Energy_DS: 3.7680268505811485 | Energy_Bst: 1.5567096640327036
+Iteration: 58000 | Agent: 2 | Main_Reward: 1.4627628266119985 | Energy_DS: 3.31999623806453 | Energy_Bst: 1.8521568134756088
+Iteration: 58000 | Agent: 3 | Main_Reward: -26.598424336634224 | Energy_DS: 4.433752328942481 | Energy_Bst: 1.7307526389809027
+Iteration: 58000 | Agent: 4 | Main_Reward: -34.50806552744342 | Energy_DS: 3.581737851281916 | Energy_Bst: 1.9575915006156532
+--------------------------------------
+ 
+Iteration: 59000 | Agent: 0 | Main_Reward: 6.662392062804536 | Energy_DS: 5.100980207655922 | Energy_Bst: 3.4882030218026627
+Iteration: 59000 | Agent: 1 | Main_Reward: 20.632834376229248 | Energy_DS: 3.6845307941249468 | Energy_Bst: 1.5123221192277156
+Iteration: 59000 | Agent: 2 | Main_Reward: -1.349327884332773 | Energy_DS: 3.288631203132867 | Energy_Bst: 1.762279846827095
+Iteration: 59000 | Agent: 3 | Main_Reward: -25.968010350766516 | Energy_DS: 4.47656299568092 | Energy_Bst: 1.5863717564508881
+Iteration: 59000 | Agent: 4 | Main_Reward: -32.25116177987768 | Energy_DS: 3.6899089598835846 | Energy_Bst: 2.082630603442457
+--------------------------------------
+ 
+Iteration: 60000 | Agent: 0 | Main_Reward: 3.9555311531085726 | Energy_DS: 5.115287813887317 | Energy_Bst: 3.6229086624678257
+Iteration: 60000 | Agent: 1 | Main_Reward: 19.712980172784896 | Energy_DS: 3.7087883620412514 | Energy_Bst: 1.4962667147343582
+Iteration: 60000 | Agent: 2 | Main_Reward: -0.5096528570703959 | Energy_DS: 3.3850277164157334 | Energy_Bst: 1.6646321897767187
+Iteration: 60000 | Agent: 3 | Main_Reward: -26.926635222842446 | Energy_DS: 4.512427743214054 | Energy_Bst: 1.5130298231695092
+Iteration: 60000 | Agent: 4 | Main_Reward: -33.75917044220081 | Energy_DS: 3.706298011106195 | Energy_Bst: 2.0348919217201322
+--------------------------------------
+ 
+Iteration: 61000 | Agent: 0 | Main_Reward: 3.5413219287684705 | Energy_DS: 4.975246208131362 | Energy_Bst: 3.3523780005873296
+Iteration: 61000 | Agent: 1 | Main_Reward: 21.733388955519317 | Energy_DS: 3.4320820018559433 | Energy_Bst: 1.3929632253815127
+Iteration: 61000 | Agent: 2 | Main_Reward: 2.9669036227958374 | Energy_DS: 3.1703318615851885 | Energy_Bst: 1.4153425841602894
+Iteration: 61000 | Agent: 3 | Main_Reward: -25.78841430037343 | Energy_DS: 4.462068593168981 | Energy_Bst: 1.4058761876449677
+Iteration: 61000 | Agent: 4 | Main_Reward: -33.85307983445176 | Energy_DS: 3.7652544692861674 | Energy_Bst: 2.1062401073660677
+--------------------------------------
+ 
+Iteration: 62000 | Agent: 0 | Main_Reward: 5.887681459728665 | Energy_DS: 4.5174190937666365 | Energy_Bst: 2.9562161243514717
+Iteration: 62000 | Agent: 1 | Main_Reward: 24.14613878130709 | Energy_DS: 3.4521536640147037 | Energy_Bst: 1.3675220133183392
+Iteration: 62000 | Agent: 2 | Main_Reward: 4.626918442439094 | Energy_DS: 3.045247511388763 | Energy_Bst: 1.528910507903205
+Iteration: 62000 | Agent: 3 | Main_Reward: -26.19113697507962 | Energy_DS: 4.1860873487262795 | Energy_Bst: 1.3648692547131718
+Iteration: 62000 | Agent: 4 | Main_Reward: -33.07436002015208 | Energy_DS: 3.4721435729798773 | Energy_Bst: 1.8425761296391339
+--------------------------------------
+ 
+Iteration: 63000 | Agent: 0 | Main_Reward: 6.30141490510316 | Energy_DS: 4.913958177381943 | Energy_Bst: 3.1601739410382175
+Iteration: 63000 | Agent: 1 | Main_Reward: 19.944862268486084 | Energy_DS: 3.378672209995956 | Energy_Bst: 1.4886376494994116
+Iteration: 63000 | Agent: 2 | Main_Reward: 4.929350978905645 | Energy_DS: 3.0341337661356054 | Energy_Bst: 1.563991733239296
+Iteration: 63000 | Agent: 3 | Main_Reward: -27.31615099559302 | Energy_DS: 4.128887900450254 | Energy_Bst: 1.475637856047505
+Iteration: 63000 | Agent: 4 | Main_Reward: -32.52779912502567 | Energy_DS: 3.7056744536317776 | Energy_Bst: 2.0088902488304985
+--------------------------------------
+ 
+Iteration: 64000 | Agent: 0 | Main_Reward: 3.022394117108948 | Energy_DS: 4.769348458534568 | Energy_Bst: 3.007059206133763
+Iteration: 64000 | Agent: 1 | Main_Reward: 22.658500781308977 | Energy_DS: 3.3554480900855994 | Energy_Bst: 1.5602782111206095
+Iteration: 64000 | Agent: 2 | Main_Reward: 3.7550494198260527 | Energy_DS: 3.104583973969741 | Energy_Bst: 1.6049654947183516
+Iteration: 64000 | Agent: 3 | Main_Reward: -23.103941767754073 | Energy_DS: 4.111345858844893 | Energy_Bst: 1.555396948932987
+Iteration: 64000 | Agent: 4 | Main_Reward: -30.821506721082628 | Energy_DS: 3.657469683946731 | Energy_Bst: 1.937744578355602
+--------------------------------------
+ 
+Iteration: 65000 | Agent: 0 | Main_Reward: 2.7716401558404384 | Energy_DS: 5.008221780801072 | Energy_Bst: 3.2894598838315012
+Iteration: 65000 | Agent: 1 | Main_Reward: 16.247813668208824 | Energy_DS: 3.6762497151132134 | Energy_Bst: 1.8240522362975613
+Iteration: 65000 | Agent: 2 | Main_Reward: 2.303017123911827 | Energy_DS: 2.8743090360144086 | Energy_Bst: 1.2061146898651136
+Iteration: 65000 | Agent: 3 | Main_Reward: -24.208236553565328 | Energy_DS: 4.133189202007213 | Energy_Bst: 1.720908506870626
+Iteration: 65000 | Agent: 4 | Main_Reward: -31.39112646512819 | Energy_DS: 3.9245179134033603 | Energy_Bst: 2.0804287190100212
+--------------------------------------
+ 
+Iteration: 66000 | Agent: 0 | Main_Reward: 5.278480127810774 | Energy_DS: 4.776826941669816 | Energy_Bst: 3.2271515698021136
+Iteration: 66000 | Agent: 1 | Main_Reward: 16.266650417599656 | Energy_DS: 3.487284083434735 | Energy_Bst: 1.834645414052999
+Iteration: 66000 | Agent: 2 | Main_Reward: 1.1748305113002306 | Energy_DS: 3.0081810472984976 | Energy_Bst: 1.2838366581149847
+Iteration: 66000 | Agent: 3 | Main_Reward: -26.364764466202246 | Energy_DS: 4.311000352084458 | Energy_Bst: 1.7115782270471487
+Iteration: 66000 | Agent: 4 | Main_Reward: -32.209356740881944 | Energy_DS: 3.889042417732278 | Energy_Bst: 1.9733221998933066
+--------------------------------------
+ 
+Iteration: 67000 | Agent: 0 | Main_Reward: 3.2941638705552405 | Energy_DS: 4.525924572555867 | Energy_Bst: 3.122985165239772
+Iteration: 67000 | Agent: 1 | Main_Reward: 18.359570614058253 | Energy_DS: 3.3746178982167505 | Energy_Bst: 1.782779825072782
+Iteration: 67000 | Agent: 2 | Main_Reward: 2.116575213203307 | Energy_DS: 3.4739313870971587 | Energy_Bst: 1.2182650500533225
+Iteration: 67000 | Agent: 3 | Main_Reward: -27.14287895311948 | Energy_DS: 4.184869817666906 | Energy_Bst: 1.4938310601901923
+Iteration: 67000 | Agent: 4 | Main_Reward: -30.71005152028255 | Energy_DS: 3.9507495921428584 | Energy_Bst: 2.1881433954215463
+--------------------------------------
+ 
+Iteration: 68000 | Agent: 0 | Main_Reward: 6.444313551919628 | Energy_DS: 4.747449057149242 | Energy_Bst: 3.3297835357188736
+Iteration: 68000 | Agent: 1 | Main_Reward: 19.888709172227678 | Energy_DS: 3.4316260424891207 | Energy_Bst: 1.7298475408428289
+Iteration: 68000 | Agent: 2 | Main_Reward: 4.837785687509289 | Energy_DS: 3.2308675290715216 | Energy_Bst: 1.1740181536544358
+Iteration: 68000 | Agent: 3 | Main_Reward: -27.221420818841143 | Energy_DS: 4.231523918196524 | Energy_Bst: 1.4605149898935712
+Iteration: 68000 | Agent: 4 | Main_Reward: -35.437368275628515 | Energy_DS: 3.949396714986674 | Energy_Bst: 2.1677562435613122
+--------------------------------------
+ 
+Iteration: 69000 | Agent: 0 | Main_Reward: 2.5388298175405932 | Energy_DS: 4.489142727420378 | Energy_Bst: 3.1413874469357714
+Iteration: 69000 | Agent: 1 | Main_Reward: 18.772558610807256 | Energy_DS: 3.448824987576334 | Energy_Bst: 1.7492799432727268
+Iteration: 69000 | Agent: 2 | Main_Reward: 2.547688448902522 | Energy_DS: 3.0334481659868344 | Energy_Bst: 1.2141178741404621
+Iteration: 69000 | Agent: 3 | Main_Reward: -25.376892775105016 | Energy_DS: 4.316881373352795 | Energy_Bst: 1.582264499746604
+Iteration: 69000 | Agent: 4 | Main_Reward: -32.75428421852404 | Energy_DS: 3.883969594113007 | Energy_Bst: 2.037011159108062
+--------------------------------------
+ 
+Iteration: 70000 | Agent: 0 | Main_Reward: 4.169614206421299 | Energy_DS: 4.572157957013788 | Energy_Bst: 3.049774377519677
+Iteration: 70000 | Agent: 1 | Main_Reward: 18.42455382997067 | Energy_DS: 3.607796067485719 | Energy_Bst: 1.8751074248437256
+Iteration: 70000 | Agent: 2 | Main_Reward: 4.288645453496698 | Energy_DS: 3.001783949361328 | Energy_Bst: 1.4691045888231664
+Iteration: 70000 | Agent: 3 | Main_Reward: -23.370329383469965 | Energy_DS: 4.217755496310662 | Energy_Bst: 1.48003787560361
+Iteration: 70000 | Agent: 4 | Main_Reward: -31.657824609037323 | Energy_DS: 3.6316938504408887 | Energy_Bst: 1.9437211401915087
+--------------------------------------
+ 
+Iteration: 71000 | Agent: 0 | Main_Reward: 5.49906284398171 | Energy_DS: 4.8074918546039145 | Energy_Bst: 3.2093046151126394
+Iteration: 71000 | Agent: 1 | Main_Reward: 20.17093921947898 | Energy_DS: 3.561076551687837 | Energy_Bst: 1.7153206682903646
+Iteration: 71000 | Agent: 2 | Main_Reward: -0.8043485502100143 | Energy_DS: 3.3911017552052236 | Energy_Bst: 1.8530637775020036
+Iteration: 71000 | Agent: 3 | Main_Reward: -23.418935684438065 | Energy_DS: 4.11947068122027 | Energy_Bst: 1.673324950381096
+Iteration: 71000 | Agent: 4 | Main_Reward: -34.59331635485388 | Energy_DS: 3.6219647446731384 | Energy_Bst: 2.188915353916814
+--------------------------------------
+ 
+Iteration: 72000 | Agent: 0 | Main_Reward: 5.426211380874877 | Energy_DS: 4.289554054463001 | Energy_Bst: 2.744004510804936
+Iteration: 72000 | Agent: 1 | Main_Reward: 22.445151778583327 | Energy_DS: 3.4012560018689766 | Energy_Bst: 1.2716441964010288
+Iteration: 72000 | Agent: 2 | Main_Reward: 2.990645414489866 | Energy_DS: 3.0569733317661316 | Energy_Bst: 1.682246597486105
+Iteration: 72000 | Agent: 3 | Main_Reward: -24.729734092738838 | Energy_DS: 3.8822190750126064 | Energy_Bst: 1.2420581530912298
+Iteration: 72000 | Agent: 4 | Main_Reward: -30.982335125790712 | Energy_DS: 3.3737070647769873 | Energy_Bst: 2.1802696815376548
+--------------------------------------
+ 
+Iteration: 73000 | Agent: 0 | Main_Reward: 6.196948398095246 | Energy_DS: 4.5298681017692335 | Energy_Bst: 2.8819492492192063
+Iteration: 73000 | Agent: 1 | Main_Reward: 22.549550483733487 | Energy_DS: 3.528107473288028 | Energy_Bst: 1.4317142014273214
+Iteration: 73000 | Agent: 2 | Main_Reward: 0.5099989081914239 | Energy_DS: 3.3665480076042225 | Energy_Bst: 1.8939644209389837
+Iteration: 73000 | Agent: 3 | Main_Reward: -23.181873385385213 | Energy_DS: 3.9248675499882015 | Energy_Bst: 1.1351767463351845
+Iteration: 73000 | Agent: 4 | Main_Reward: -32.98117610218738 | Energy_DS: 3.43964861661307 | Energy_Bst: 2.176668506884842
+--------------------------------------
+ 
+Iteration: 74000 | Agent: 0 | Main_Reward: 4.750653635609524 | Energy_DS: 4.578706173114695 | Energy_Bst: 2.8088659419461632
+Iteration: 74000 | Agent: 1 | Main_Reward: 24.39813448793666 | Energy_DS: 3.2563952626912447 | Energy_Bst: 1.3446115387385684
+Iteration: 74000 | Agent: 2 | Main_Reward: 2.375687217407978 | Energy_DS: 3.4846374887862845 | Energy_Bst: 1.9509904872046093
+Iteration: 74000 | Agent: 3 | Main_Reward: -23.55673151402282 | Energy_DS: 3.781788827173522 | Energy_Bst: 1.1536539420424083
+Iteration: 74000 | Agent: 4 | Main_Reward: -34.76502074167334 | Energy_DS: 3.4282789631302797 | Energy_Bst: 2.144957390556204
+--------------------------------------
+ 
+Iteration: 75000 | Agent: 0 | Main_Reward: 8.627996870751165 | Energy_DS: 4.683605381537569 | Energy_Bst: 3.265966111778601
+Iteration: 75000 | Agent: 1 | Main_Reward: 20.732420253051046 | Energy_DS: 3.2383542537143346 | Energy_Bst: 1.6416668011898081
+Iteration: 75000 | Agent: 2 | Main_Reward: 1.4760505313839354 | Energy_DS: 3.178000139362687 | Energy_Bst: 1.8864113245698835
+Iteration: 75000 | Agent: 3 | Main_Reward: -27.293826559845286 | Energy_DS: 3.899000469673035 | Energy_Bst: 1.3018496715621541
+Iteration: 75000 | Agent: 4 | Main_Reward: -33.430844604197574 | Energy_DS: 3.209239030920744 | Energy_Bst: 2.0191670487452815
+--------------------------------------
+ 
+Iteration: 76000 | Agent: 0 | Main_Reward: 3.42735982878607 | Energy_DS: 5.817534694171559 | Energy_Bst: 4.263828368563818
+Iteration: 76000 | Agent: 1 | Main_Reward: 20.435423165991917 | Energy_DS: 3.4555184576244278 | Energy_Bst: 1.903367003247895
+Iteration: 76000 | Agent: 2 | Main_Reward: 4.018801922696488 | Energy_DS: 3.110800257071784 | Energy_Bst: 1.740205471763541
+Iteration: 76000 | Agent: 3 | Main_Reward: -24.793874874509797 | Energy_DS: 4.061308770610856 | Energy_Bst: 1.3188430578075505
+Iteration: 76000 | Agent: 4 | Main_Reward: -33.106510347582244 | Energy_DS: 3.2297580472598817 | Energy_Bst: 2.005839495752176
+--------------------------------------
+ 
+Iteration: 77000 | Agent: 0 | Main_Reward: 0.5033317112148127 | Energy_DS: 3.369858045355184 | Energy_Bst: 2.3162003821545833
+Iteration: 77000 | Agent: 1 | Main_Reward: 19.435339548542792 | Energy_DS: 3.4377624605940116 | Energy_Bst: 1.9133281290001947
+Iteration: 77000 | Agent: 2 | Main_Reward: -0.05203790644093947 | Energy_DS: 3.1396404082054814 | Energy_Bst: 1.8748601760599215
+Iteration: 77000 | Agent: 3 | Main_Reward: -24.86829967623055 | Energy_DS: 4.472194292897073 | Energy_Bst: 1.5958756248655777
+Iteration: 77000 | Agent: 4 | Main_Reward: -29.21834013073317 | Energy_DS: 3.3644505874266057 | Energy_Bst: 1.8029014171742732
+--------------------------------------
+ 
+Iteration: 78000 | Agent: 0 | Main_Reward: 8.061505262192375 | Energy_DS: 2.8213385474354298 | Energy_Bst: 1.9736680227598276
+Iteration: 78000 | Agent: 1 | Main_Reward: 16.607961495207604 | Energy_DS: 3.511973832921864 | Energy_Bst: 1.815863989802479
+Iteration: 78000 | Agent: 2 | Main_Reward: 4.917441677898869 | Energy_DS: 3.133420430537489 | Energy_Bst: 1.7784374891674437
+Iteration: 78000 | Agent: 3 | Main_Reward: -27.19937806818305 | Energy_DS: 4.180403787123181 | Energy_Bst: 1.658439612492035
+Iteration: 78000 | Agent: 4 | Main_Reward: -28.760552992361294 | Energy_DS: 3.446694800622056 | Energy_Bst: 1.7416175872751933
+--------------------------------------
+ 
+Iteration: 79000 | Agent: 0 | Main_Reward: 6.246424035389139 | Energy_DS: 3.052615473707657 | Energy_Bst: 2.2018223447849117
+Iteration: 79000 | Agent: 1 | Main_Reward: 20.053688784667102 | Energy_DS: 3.476549374180696 | Energy_Bst: 1.5226617696047107
+Iteration: 79000 | Agent: 2 | Main_Reward: 4.251124729061914 | Energy_DS: 3.1335035509223035 | Energy_Bst: 1.8426808646413069
+Iteration: 79000 | Agent: 3 | Main_Reward: -24.36727631039609 | Energy_DS: 3.990620886081715 | Energy_Bst: 1.3959880536586666
+Iteration: 79000 | Agent: 4 | Main_Reward: -30.69868200504277 | Energy_DS: 3.2367560852934827 | Energy_Bst: 1.3461531008931895
+--------------------------------------
+ 
+Iteration: 80000 | Agent: 0 | Main_Reward: 5.1948830191124395 | Energy_DS: 2.7769196812648946 | Energy_Bst: 1.930804612438828
+Iteration: 80000 | Agent: 1 | Main_Reward: 21.254676945473015 | Energy_DS: 3.393314446171234 | Energy_Bst: 1.4824356508562042
+Iteration: 80000 | Agent: 2 | Main_Reward: 2.7307445254572964 | Energy_DS: 2.779516951345039 | Energy_Bst: 1.4220175051009996
+Iteration: 80000 | Agent: 3 | Main_Reward: -24.410238645736726 | Energy_DS: 3.9799481055801613 | Energy_Bst: 1.389483104461187
+Iteration: 80000 | Agent: 4 | Main_Reward: -31.16597569236548 | Energy_DS: 3.546589498173485 | Energy_Bst: 1.717750943297816
+--------------------------------------
+ 
+Iteration: 81000 | Agent: 0 | Main_Reward: 8.28470424032948 | Energy_DS: 2.7604174752536283 | Energy_Bst: 1.9635834174264002
+Iteration: 81000 | Agent: 1 | Main_Reward: 20.030619576949597 | Energy_DS: 3.4123850865185923 | Energy_Bst: 1.1534492713417792
+Iteration: 81000 | Agent: 2 | Main_Reward: 0.6825450632098812 | Energy_DS: 3.014046994855625 | Energy_Bst: 1.439581768115343
+Iteration: 81000 | Agent: 3 | Main_Reward: -24.57350872593661 | Energy_DS: 3.8135121201081876 | Energy_Bst: 1.3459257078329954
+Iteration: 81000 | Agent: 4 | Main_Reward: -29.77749142637037 | Energy_DS: 3.5782951342866323 | Energy_Bst: 1.5182408146124786
+--------------------------------------
+ 
+Iteration: 82000 | Agent: 0 | Main_Reward: 7.526350494497829 | Energy_DS: 2.706386707756558 | Energy_Bst: 1.8719987410817167
+Iteration: 82000 | Agent: 1 | Main_Reward: 20.394057262260628 | Energy_DS: 3.193881653955366 | Energy_Bst: 1.1257760330877729
+Iteration: 82000 | Agent: 2 | Main_Reward: -0.6517862323642056 | Energy_DS: 3.5696479249613735 | Energy_Bst: 1.723099296613167
+Iteration: 82000 | Agent: 3 | Main_Reward: -28.079788777529572 | Energy_DS: 3.797592811338097 | Energy_Bst: 1.3529832033802949
+Iteration: 82000 | Agent: 4 | Main_Reward: -29.70891820535816 | Energy_DS: 3.6740532825866907 | Energy_Bst: 1.687120866853247
+--------------------------------------
+ 
+Iteration: 83000 | Agent: 0 | Main_Reward: 10.786205693676811 | Energy_DS: 2.644274749064898 | Energy_Bst: 1.8558627107981867
+Iteration: 83000 | Agent: 1 | Main_Reward: 19.642333404641906 | Energy_DS: 3.342419611516934 | Energy_Bst: 1.2872512178495448
+Iteration: 83000 | Agent: 2 | Main_Reward: 4.048661194482647 | Energy_DS: 3.2765477405402224 | Energy_Bst: 1.7807422507570192
+Iteration: 83000 | Agent: 3 | Main_Reward: -26.33940214562086 | Energy_DS: 3.56114718409152 | Energy_Bst: 1.3866943922050663
+Iteration: 83000 | Agent: 4 | Main_Reward: -27.401192606170643 | Energy_DS: 3.628647768368919 | Energy_Bst: 1.411157539539108
+--------------------------------------
+ 
+Iteration: 84000 | Agent: 0 | Main_Reward: 8.523355564173489 | Energy_DS: 2.7726907430331975 | Energy_Bst: 1.8336435891732115
+Iteration: 84000 | Agent: 1 | Main_Reward: 19.367995903305502 | Energy_DS: 3.249339683228432 | Energy_Bst: 1.2766897317187655
+Iteration: 84000 | Agent: 2 | Main_Reward: 3.505475143071988 | Energy_DS: 3.1430174377462206 | Energy_Bst: 1.651035510328202
+Iteration: 84000 | Agent: 3 | Main_Reward: -27.382396301144734 | Energy_DS: 3.8905611558206457 | Energy_Bst: 1.494319272244047
+Iteration: 84000 | Agent: 4 | Main_Reward: -27.270719808955864 | Energy_DS: 3.5225760597796687 | Energy_Bst: 1.4283573624561425
+--------------------------------------
+ 
+Iteration: 85000 | Agent: 0 | Main_Reward: 10.015182202653541 | Energy_DS: 2.5952310522520863 | Energy_Bst: 1.7902534538216126
+Iteration: 85000 | Agent: 1 | Main_Reward: 22.5467128885887 | Energy_DS: 3.271147756304284 | Energy_Bst: 1.2604474519619995
+Iteration: 85000 | Agent: 2 | Main_Reward: 6.534855696865617 | Energy_DS: 2.9537341198884373 | Energy_Bst: 1.6757784837545024
+Iteration: 85000 | Agent: 3 | Main_Reward: -29.382713391255745 | Energy_DS: 3.6007717609838408 | Energy_Bst: 1.489179258345138
+Iteration: 85000 | Agent: 4 | Main_Reward: -29.43871466701979 | Energy_DS: 3.586431176793555 | Energy_Bst: 1.4850776260080643
+--------------------------------------
+ 
+Iteration: 86000 | Agent: 0 | Main_Reward: 6.4874684222799175 | Energy_DS: 2.760480762046631 | Energy_Bst: 2.0049596312311446
+Iteration: 86000 | Agent: 1 | Main_Reward: 21.29970309998083 | Energy_DS: 3.3323696237662004 | Energy_Bst: 1.3052404414658156
+Iteration: 86000 | Agent: 2 | Main_Reward: 4.78132080149825 | Energy_DS: 2.90692644702957 | Energy_Bst: 1.6389677214681988
+Iteration: 86000 | Agent: 3 | Main_Reward: -27.30089279820323 | Energy_DS: 3.838944893875601 | Energy_Bst: 1.642800024211629
+Iteration: 86000 | Agent: 4 | Main_Reward: -27.634184004657314 | Energy_DS: 3.608082351834577 | Energy_Bst: 1.5575125128931355
+--------------------------------------
+ 
+Iteration: 87000 | Agent: 0 | Main_Reward: 11.573010745712438 | Energy_DS: 2.7321270123328776 | Energy_Bst: 1.9487680221056534
+Iteration: 87000 | Agent: 1 | Main_Reward: 18.056437740301607 | Energy_DS: 3.1080161888848035 | Energy_Bst: 1.401700759149169
+Iteration: 87000 | Agent: 2 | Main_Reward: 3.540317104018531 | Energy_DS: 3.2814566140155788 | Energy_Bst: 1.873554641063752
+Iteration: 87000 | Agent: 3 | Main_Reward: -26.58856009522037 | Energy_DS: 3.9512637307738565 | Energy_Bst: 1.8516200609964968
+Iteration: 87000 | Agent: 4 | Main_Reward: -28.388368278585737 | Energy_DS: 3.625155286518817 | Energy_Bst: 1.74600134172972
+--------------------------------------
+ 
+Iteration: 88000 | Agent: 0 | Main_Reward: 9.097148577547157 | Energy_DS: 2.8191720220201417 | Energy_Bst: 2.0994298041974355
+Iteration: 88000 | Agent: 1 | Main_Reward: 20.211219860588145 | Energy_DS: 3.263022984691641 | Energy_Bst: 1.613089938653182
+Iteration: 88000 | Agent: 2 | Main_Reward: 5.659756668211456 | Energy_DS: 3.129202702211228 | Energy_Bst: 1.8395395054619268
+Iteration: 88000 | Agent: 3 | Main_Reward: -23.963416524195125 | Energy_DS: 3.861308026424848 | Energy_Bst: 1.8356415194881155
+Iteration: 88000 | Agent: 4 | Main_Reward: -26.90275704969981 | Energy_DS: 3.517621689216561 | Energy_Bst: 1.7603781218715104
+--------------------------------------
+ 
+Iteration: 89000 | Agent: 0 | Main_Reward: 7.783993559546242 | Energy_DS: 2.620188917972955 | Energy_Bst: 1.9666841828855288
+Iteration: 89000 | Agent: 1 | Main_Reward: 20.863292295154736 | Energy_DS: 3.3162776839769945 | Energy_Bst: 1.6567060773348772
+Iteration: 89000 | Agent: 2 | Main_Reward: 4.2661737609422765 | Energy_DS: 3.078987753264091 | Energy_Bst: 1.9190015456102747
+Iteration: 89000 | Agent: 3 | Main_Reward: -24.20180880197052 | Energy_DS: 3.686710749724887 | Energy_Bst: 1.7464204894502735
+Iteration: 89000 | Agent: 4 | Main_Reward: -30.23239631238749 | Energy_DS: 3.6115553255009787 | Energy_Bst: 1.7881915888602997
+--------------------------------------
+ 
+Iteration: 90000 | Agent: 0 | Main_Reward: 10.895498777606596 | Energy_DS: 2.8644214220123 | Energy_Bst: 2.228529376203389
+Iteration: 90000 | Agent: 1 | Main_Reward: 22.321518532363235 | Energy_DS: 3.175465725295937 | Energy_Bst: 1.58899615351628
+Iteration: 90000 | Agent: 2 | Main_Reward: 5.711772973108194 | Energy_DS: 2.9895184770630667 | Energy_Bst: 1.8592858597198545
+Iteration: 90000 | Agent: 3 | Main_Reward: -25.305842630461196 | Energy_DS: 3.763510199114967 | Energy_Bst: 1.920766669241358
+Iteration: 90000 | Agent: 4 | Main_Reward: -29.41419075967518 | Energy_DS: 3.592415412246148 | Energy_Bst: 1.620923807787945
+--------------------------------------
+ 
+Iteration: 91000 | Agent: 0 | Main_Reward: 6.515491526526284 | Energy_DS: 2.689620388124385 | Energy_Bst: 1.9870126243637583
+Iteration: 91000 | Agent: 1 | Main_Reward: 20.80745143590219 | Energy_DS: 3.0638035692684804 | Energy_Bst: 1.8064487378212064
+Iteration: 91000 | Agent: 2 | Main_Reward: 7.342196664229873 | Energy_DS: 2.8631536614654287 | Energy_Bst: 1.678275165547939
+Iteration: 91000 | Agent: 3 | Main_Reward: -23.356958559033227 | Energy_DS: 3.705989221721084 | Energy_Bst: 1.867845871374753
+Iteration: 91000 | Agent: 4 | Main_Reward: -29.39646662353922 | Energy_DS: 3.4707224238468175 | Energy_Bst: 1.573841914453261
+--------------------------------------
+ 
+Iteration: 92000 | Agent: 0 | Main_Reward: 10.013861633877987 | Energy_DS: 2.7800369928449222 | Energy_Bst: 1.9222522313173311
+Iteration: 92000 | Agent: 1 | Main_Reward: 21.818981331948727 | Energy_DS: 3.128076628469701 | Energy_Bst: 1.7121614093763273
+Iteration: 92000 | Agent: 2 | Main_Reward: 0.34268492761566793 | Energy_DS: 2.9672881028098272 | Energy_Bst: 1.8568107438561747
+Iteration: 92000 | Agent: 3 | Main_Reward: -24.86235830700708 | Energy_DS: 3.555917966394904 | Energy_Bst: 1.7928143922720683
+Iteration: 92000 | Agent: 4 | Main_Reward: -32.41353867317413 | Energy_DS: 3.2557618625594267 | Energy_Bst: 1.3235118912523913
+--------------------------------------
+ 
+Iteration: 93000 | Agent: 0 | Main_Reward: 7.091696945605442 | Energy_DS: 3.5847200528957957 | Energy_Bst: 2.2166969043042326
+Iteration: 93000 | Agent: 1 | Main_Reward: 22.42182585615518 | Energy_DS: 3.0547129168943847 | Energy_Bst: 1.7316531006587284
+Iteration: 93000 | Agent: 2 | Main_Reward: -6.485053134571189 | Energy_DS: 3.5788228983527914 | Energy_Bst: 2.384953703480992
+Iteration: 93000 | Agent: 3 | Main_Reward: -26.740870452502357 | Energy_DS: 3.641444349437948 | Energy_Bst: 1.8259263718012988
+Iteration: 93000 | Agent: 4 | Main_Reward: -31.10510664740381 | Energy_DS: 3.392854677473199 | Energy_Bst: 1.3484100627156728
+--------------------------------------
+ 
+Iteration: 94000 | Agent: 0 | Main_Reward: 5.510323523423413 | Energy_DS: 4.861231659374317 | Energy_Bst: 3.025849512121613
+Iteration: 94000 | Agent: 1 | Main_Reward: 20.651515795013555 | Energy_DS: 3.0154499364867178 | Energy_Bst: 1.7496428038552896
+Iteration: 94000 | Agent: 2 | Main_Reward: 4.2045101981504915 | Energy_DS: 2.9882788978333927 | Energy_Bst: 1.9878679144870517
+Iteration: 94000 | Agent: 3 | Main_Reward: -21.230930855702404 | Energy_DS: 3.4252694439372187 | Energy_Bst: 1.4250727409704336
+Iteration: 94000 | Agent: 4 | Main_Reward: -29.612014064923986 | Energy_DS: 3.4788359642040305 | Energy_Bst: 1.492210238035594
+--------------------------------------
+ 
+Iteration: 95000 | Agent: 0 | Main_Reward: 6.424026734647156 | Energy_DS: 3.7636415212917034 | Energy_Bst: 2.6869668480473625
+Iteration: 95000 | Agent: 1 | Main_Reward: 18.540376404548855 | Energy_DS: 2.818391331189951 | Energy_Bst: 1.7262139599748803
+Iteration: 95000 | Agent: 2 | Main_Reward: 6.807923255607009 | Energy_DS: 2.8845297517618262 | Energy_Bst: 1.8736466293969543
+Iteration: 95000 | Agent: 3 | Main_Reward: -25.598771400930055 | Energy_DS: 3.5505372814789866 | Energy_Bst: 1.5154001155339625
+Iteration: 95000 | Agent: 4 | Main_Reward: -32.231412804296085 | Energy_DS: 3.356329992208445 | Energy_Bst: 1.6505084800628151
+--------------------------------------
+ 
+Iteration: 96000 | Agent: 0 | Main_Reward: 10.049750428446496 | Energy_DS: 3.4271127680326754 | Energy_Bst: 2.571043788725585
+Iteration: 96000 | Agent: 1 | Main_Reward: 18.784727235710356 | Energy_DS: 3.0902745616206686 | Energy_Bst: 1.9480101722847736
+Iteration: 96000 | Agent: 2 | Main_Reward: 5.505231485241737 | Energy_DS: 2.945496749883304 | Energy_Bst: 1.9908794001059762
+Iteration: 96000 | Agent: 3 | Main_Reward: -23.611731467949262 | Energy_DS: 3.6696610451530636 | Energy_Bst: 1.6187464239678435
+Iteration: 96000 | Agent: 4 | Main_Reward: -30.96051720398219 | Energy_DS: 3.4613548089034634 | Energy_Bst: 1.8486044578767757
+--------------------------------------
+ 
+Iteration: 97000 | Agent: 0 | Main_Reward: -8.579052465395328 | Energy_DS: 4.27602926155252 | Energy_Bst: 3.2263794076479315
+Iteration: 97000 | Agent: 1 | Main_Reward: 22.205061008202243 | Energy_DS: 2.9732759582162798 | Energy_Bst: 2.03169812810721
+Iteration: 97000 | Agent: 2 | Main_Reward: 5.313136355062802 | Energy_DS: 2.446228754246699 | Energy_Bst: 1.6565234236417656
+Iteration: 97000 | Agent: 3 | Main_Reward: -25.91379579744991 | Energy_DS: 3.4389487364906266 | Energy_Bst: 1.2928632504460742
+Iteration: 97000 | Agent: 4 | Main_Reward: -31.670868948817898 | Energy_DS: 3.6608475192793666 | Energy_Bst: 2.062392222813629
+--------------------------------------
+ 
+Iteration: 98000 | Agent: 0 | Main_Reward: -29.442683029148355 | Energy_DS: 4.990694566071728 | Energy_Bst: 3.735143494564509
+Iteration: 98000 | Agent: 1 | Main_Reward: 20.184303194105276 | Energy_DS: 2.9020891720634183 | Energy_Bst: 2.1139133860852746
+Iteration: 98000 | Agent: 2 | Main_Reward: 4.828008280986325 | Energy_DS: 2.2882350337784425 | Energy_Bst: 1.6135288160075907
+Iteration: 98000 | Agent: 3 | Main_Reward: -27.78157990777351 | Energy_DS: 3.5556489180852595 | Energy_Bst: 1.2152294727170556
+Iteration: 98000 | Agent: 4 | Main_Reward: -32.06406512876312 | Energy_DS: 3.4994628279055604 | Energy_Bst: 2.2510605763356164
+--------------------------------------
+ 
+Iteration: 99000 | Agent: 0 | Main_Reward: 0.9565961372469883 | Energy_DS: 2.805263787895906 | Energy_Bst: 1.956960650731132
+Iteration: 99000 | Agent: 1 | Main_Reward: 21.582423119254734 | Energy_DS: 3.1044690022363195 | Energy_Bst: 2.198154713696523
+Iteration: 99000 | Agent: 2 | Main_Reward: 7.726524850063482 | Energy_DS: 2.0990019518201404 | Energy_Bst: 1.5394572215508633
+Iteration: 99000 | Agent: 3 | Main_Reward: -29.317745149328978 | Energy_DS: 3.5082600747025605 | Energy_Bst: 1.8293737181595788
+Iteration: 99000 | Agent: 4 | Main_Reward: -27.53192372424813 | Energy_DS: 3.5017772656583657 | Energy_Bst: 1.9078007407595399
+--------------------------------------
+ 
+Iteration: 100000 | Agent: 0 | Main_Reward: 5.381833907273474 | Energy_DS: 2.96955100904569 | Energy_Bst: 2.0087311643845016
+Iteration: 100000 | Agent: 1 | Main_Reward: 21.35834856706207 | Energy_DS: 2.925310884832915 | Energy_Bst: 2.017295280973884
+Iteration: 100000 | Agent: 2 | Main_Reward: 2.4188663654208984 | Energy_DS: 2.1691055507612997 | Energy_Bst: 1.5804242382038105
+Iteration: 100000 | Agent: 3 | Main_Reward: -28.153616667906068 | Energy_DS: 3.318522337676962 | Energy_Bst: 1.8420983216950704
+Iteration: 100000 | Agent: 4 | Main_Reward: -30.132037001474146 | Energy_DS: 3.3258189911593856 | Energy_Bst: 1.7191339810639406
+--------------------------------------
+ 
+Iteration: 101000 | Agent: 0 | Main_Reward: 8.850894061642135 | Energy_DS: 3.285130045906046 | Energy_Bst: 2.2418714734025897
+Iteration: 101000 | Agent: 1 | Main_Reward: 19.406623897567076 | Energy_DS: 2.927046862175819 | Energy_Bst: 1.8574879685928034
+Iteration: 101000 | Agent: 2 | Main_Reward: -14.015363569487004 | Energy_DS: 3.007560002329655 | Energy_Bst: 2.4111013210722563
+Iteration: 101000 | Agent: 3 | Main_Reward: -27.619018263327167 | Energy_DS: 3.3930276502582473 | Energy_Bst: 1.8970338825813482
+Iteration: 101000 | Agent: 4 | Main_Reward: -29.436412028326973 | Energy_DS: 3.3371779058166746 | Energy_Bst: 1.6179056628206823
+--------------------------------------
+ 
+Iteration: 102000 | Agent: 0 | Main_Reward: 10.051581477606234 | Energy_DS: 3.232733566791611 | Energy_Bst: 2.1076797400160743
+Iteration: 102000 | Agent: 1 | Main_Reward: 21.446743826453705 | Energy_DS: 2.9597657198482294 | Energy_Bst: 1.9869736565678038
+Iteration: 102000 | Agent: 2 | Main_Reward: -33.09293525060144 | Energy_DS: 4.11084425335439 | Energy_Bst: 3.2413738026063315
+Iteration: 102000 | Agent: 3 | Main_Reward: -27.30211588600664 | Energy_DS: 3.4404066924856807 | Energy_Bst: 1.9038148917892246
+Iteration: 102000 | Agent: 4 | Main_Reward: -29.093172476450004 | Energy_DS: 3.4706598254216607 | Energy_Bst: 1.5845587611356697
+--------------------------------------
+ 
+Iteration: 103000 | Agent: 0 | Main_Reward: 10.821308353001543 | Energy_DS: 3.3354514236312087 | Energy_Bst: 2.236357066727404
+Iteration: 103000 | Agent: 1 | Main_Reward: 22.902404525730525 | Energy_DS: 2.8836055027143255 | Energy_Bst: 1.9795348305241585
+Iteration: 103000 | Agent: 2 | Main_Reward: -27.256976930372762 | Energy_DS: 4.417962634752312 | Energy_Bst: 3.28318440062683
+Iteration: 103000 | Agent: 3 | Main_Reward: -30.385083344355113 | Energy_DS: 3.3680145415267964 | Energy_Bst: 1.7365290023304958
+Iteration: 103000 | Agent: 4 | Main_Reward: -31.18774265552183 | Energy_DS: 4.091347508356409 | Energy_Bst: 1.9242839222442867
+--------------------------------------
+ 
+Iteration: 104000 | Agent: 0 | Main_Reward: 8.817969619920524 | Energy_DS: 3.081569015057498 | Energy_Bst: 1.9136970348786693
+Iteration: 104000 | Agent: 1 | Main_Reward: 23.4686881032656 | Energy_DS: 2.7296519931126113 | Energy_Bst: 1.8829714276438352
+Iteration: 104000 | Agent: 2 | Main_Reward: -19.732748313808237 | Energy_DS: 4.755003839923716 | Energy_Bst: 3.368873889742237
+Iteration: 104000 | Agent: 3 | Main_Reward: -28.35922714371568 | Energy_DS: 3.91677788428681 | Energy_Bst: 2.0256628557457823
+Iteration: 104000 | Agent: 4 | Main_Reward: -31.885901695213494 | Energy_DS: 4.959120784059393 | Energy_Bst: 2.210678361044453
+--------------------------------------
+ 
+Iteration: 105000 | Agent: 0 | Main_Reward: 8.280241472577734 | Energy_DS: 2.880791954076719 | Energy_Bst: 2.050422220917496
+Iteration: 105000 | Agent: 1 | Main_Reward: 21.638777582356578 | Energy_DS: 2.6383162604394417 | Energy_Bst: 1.8606204997060778
+Iteration: 105000 | Agent: 2 | Main_Reward: -28.78855287136008 | Energy_DS: 5.051810026748652 | Energy_Bst: 3.6558292718621495
+Iteration: 105000 | Agent: 3 | Main_Reward: -29.138361121326085 | Energy_DS: 3.898194953292463 | Energy_Bst: 1.8752417082158876
+Iteration: 105000 | Agent: 4 | Main_Reward: -37.02942981785883 | Energy_DS: 5.21288303953776 | Energy_Bst: 2.3154633738089307
+--------------------------------------
+ 
+Iteration: 106000 | Agent: 0 | Main_Reward: 11.978511811535048 | Energy_DS: 3.0504604202774512 | Energy_Bst: 1.665718814777647
+Iteration: 106000 | Agent: 1 | Main_Reward: 24.54208027218391 | Energy_DS: 2.670807635935415 | Energy_Bst: 2.132270894520382
+Iteration: 106000 | Agent: 2 | Main_Reward: -24.198924948092053 | Energy_DS: 4.448099286126282 | Energy_Bst: 3.5405759224191744
+Iteration: 106000 | Agent: 3 | Main_Reward: -25.30902075127136 | Energy_DS: 3.5788136638970567 | Energy_Bst: 2.044692413798652
+Iteration: 106000 | Agent: 4 | Main_Reward: -35.97910983473786 | Energy_DS: 2.9848917525982035 | Energy_Bst: 1.436569901571696
+--------------------------------------
+ 
+Iteration: 107000 | Agent: 0 | Main_Reward: 11.040731300968778 | Energy_DS: 3.0857339927853524 | Energy_Bst: 1.815216310531723
+Iteration: 107000 | Agent: 1 | Main_Reward: 22.09132601309589 | Energy_DS: 2.7061393118452997 | Energy_Bst: 2.0910095635833303
+Iteration: 107000 | Agent: 2 | Main_Reward: 6.793043028388444 | Energy_DS: 2.717513908455451 | Energy_Bst: 1.8712903125952107
+Iteration: 107000 | Agent: 3 | Main_Reward: -22.565298349403122 | Energy_DS: 3.412506791625885 | Energy_Bst: 2.0413131929364865
+Iteration: 107000 | Agent: 4 | Main_Reward: -34.59742559433774 | Energy_DS: 3.0625811997804466 | Energy_Bst: 1.5388654371959645
+--------------------------------------
+ 
+Iteration: 108000 | Agent: 0 | Main_Reward: 10.197615232158554 | Energy_DS: 2.9578688870106533 | Energy_Bst: 1.838846322013798
+Iteration: 108000 | Agent: 1 | Main_Reward: 20.514302984097988 | Energy_DS: 2.918068429573896 | Energy_Bst: 2.2358440805725444
+Iteration: 108000 | Agent: 2 | Main_Reward: 6.768764780815781 | Energy_DS: 2.2470479862840103 | Energy_Bst: 1.059504077229723
+Iteration: 108000 | Agent: 3 | Main_Reward: -21.717786272591123 | Energy_DS: 3.4618534892443495 | Energy_Bst: 1.9719740018414602
+Iteration: 108000 | Agent: 4 | Main_Reward: -31.94577839030955 | Energy_DS: 3.090512317815209 | Energy_Bst: 1.6005096234400886
+--------------------------------------
+ 
+Iteration: 109000 | Agent: 0 | Main_Reward: 12.499569549282645 | Energy_DS: 2.8396981231096596 | Energy_Bst: 1.7834637267611426
+Iteration: 109000 | Agent: 1 | Main_Reward: 19.086752220019985 | Energy_DS: 2.8287993459594367 | Energy_Bst: 1.9728147147945463
+Iteration: 109000 | Agent: 2 | Main_Reward: 4.7360116706255 | Energy_DS: 2.361035486263342 | Energy_Bst: 1.4101771938548415
+Iteration: 109000 | Agent: 3 | Main_Reward: -23.76260425495138 | Energy_DS: 3.306753039170268 | Energy_Bst: 1.8865766266184347
+Iteration: 109000 | Agent: 4 | Main_Reward: -32.13149518758845 | Energy_DS: 3.029171629353898 | Energy_Bst: 1.3815309609755557
+--------------------------------------
+ 
+Iteration: 110000 | Agent: 0 | Main_Reward: 12.092234967781526 | Energy_DS: 2.710670526105511 | Energy_Bst: 1.863436704224216
+Iteration: 110000 | Agent: 1 | Main_Reward: 21.879709427464512 | Energy_DS: 2.7476700349377206 | Energy_Bst: 1.7771912300617125
+Iteration: 110000 | Agent: 2 | Main_Reward: 6.679527681463813 | Energy_DS: 2.4547733955612765 | Energy_Bst: 1.4915795050534186
+Iteration: 110000 | Agent: 3 | Main_Reward: -24.497732296018746 | Energy_DS: 3.5404313117713633 | Energy_Bst: 2.0432925911108475
+Iteration: 110000 | Agent: 4 | Main_Reward: -30.955059393681783 | Energy_DS: 3.1855917152821216 | Energy_Bst: 1.4222931909698888
+--------------------------------------
+ 
+Iteration: 111000 | Agent: 0 | Main_Reward: 13.090225026654895 | Energy_DS: 3.0633407076391777 | Energy_Bst: 2.2616799716829306
+Iteration: 111000 | Agent: 1 | Main_Reward: 22.703408898688817 | Energy_DS: 2.628961581532227 | Energy_Bst: 1.8109488124904787
+Iteration: 111000 | Agent: 2 | Main_Reward: 6.792323536249265 | Energy_DS: 2.3584354864496397 | Energy_Bst: 1.4287005395075516
+Iteration: 111000 | Agent: 3 | Main_Reward: -20.877851434719325 | Energy_DS: 3.554188919581342 | Energy_Bst: 2.1355690925838426
+Iteration: 111000 | Agent: 4 | Main_Reward: -29.028895844659793 | Energy_DS: 3.066256220124047 | Energy_Bst: 1.59362161570643
+--------------------------------------
+ 
+Iteration: 112000 | Agent: 0 | Main_Reward: 10.809524993843146 | Energy_DS: 2.7958545434968185 | Energy_Bst: 1.9850450021858934
+Iteration: 112000 | Agent: 1 | Main_Reward: 22.264526538637995 | Energy_DS: 2.475695855597648 | Energy_Bst: 1.6855652464845488
+Iteration: 112000 | Agent: 2 | Main_Reward: 5.913388141019138 | Energy_DS: 2.2908963509433473 | Energy_Bst: 1.6104391415213177
+Iteration: 112000 | Agent: 3 | Main_Reward: -24.46082796578353 | Energy_DS: 3.6249334064836143 | Energy_Bst: 2.2669877263053007
+Iteration: 112000 | Agent: 4 | Main_Reward: -26.57873960388984 | Energy_DS: 3.271213975908932 | Energy_Bst: 1.8420927012836223
+--------------------------------------
+ 
+Iteration: 113000 | Agent: 0 | Main_Reward: 10.636118248204925 | Energy_DS: 2.5678234437850036 | Energy_Bst: 1.792643114485967
+Iteration: 113000 | Agent: 1 | Main_Reward: 20.51064910943542 | Energy_DS: 2.6927845882565182 | Energy_Bst: 1.8863813041261335
+Iteration: 113000 | Agent: 2 | Main_Reward: 6.114519362782547 | Energy_DS: 4.112601934824841 | Energy_Bst: 2.881226512452418
+Iteration: 113000 | Agent: 3 | Main_Reward: -29.321099302071424 | Energy_DS: 3.70358477755396 | Energy_Bst: 2.2809976293032665
+Iteration: 113000 | Agent: 4 | Main_Reward: -29.507284097827142 | Energy_DS: 2.9774813398306215 | Energy_Bst: 1.7310963195466413
+--------------------------------------
+ 
+Iteration: 114000 | Agent: 0 | Main_Reward: 10.526146736569276 | Energy_DS: 2.5660488530416052 | Energy_Bst: 1.8171509731218691
+Iteration: 114000 | Agent: 1 | Main_Reward: 19.87217966571942 | Energy_DS: 2.579752771907177 | Energy_Bst: 1.7526550720966851
+Iteration: 114000 | Agent: 2 | Main_Reward: 2.165924870812506 | Energy_DS: 4.522905285103297 | Energy_Bst: 3.3253057887480155
+Iteration: 114000 | Agent: 3 | Main_Reward: -30.27687814617359 | Energy_DS: 3.5878813235220965 | Energy_Bst: 2.3048683948171793
+Iteration: 114000 | Agent: 4 | Main_Reward: -31.40425598368631 | Energy_DS: 3.160539702394242 | Energy_Bst: 1.7229351561477526
+--------------------------------------
+ 
+Iteration: 115000 | Agent: 0 | Main_Reward: 12.302899389712358 | Energy_DS: 2.6521472560092434 | Energy_Bst: 1.8200468218458565
+Iteration: 115000 | Agent: 1 | Main_Reward: 22.76953394054885 | Energy_DS: 2.585271512246729 | Energy_Bst: 1.6874955956216704
+Iteration: 115000 | Agent: 2 | Main_Reward: 4.175551864085882 | Energy_DS: 3.4348802775467715 | Energy_Bst: 2.7662888253108857
+Iteration: 115000 | Agent: 3 | Main_Reward: -25.44950657120172 | Energy_DS: 3.564632178186602 | Energy_Bst: 2.4065598130292867
+Iteration: 115000 | Agent: 4 | Main_Reward: -27.235190606455664 | Energy_DS: 3.0001109143382783 | Energy_Bst: 1.5132602230926595
+--------------------------------------
+ 
+Iteration: 116000 | Agent: 0 | Main_Reward: 12.39750752012314 | Energy_DS: 2.5271728806297755 | Energy_Bst: 1.939121336915069
+Iteration: 116000 | Agent: 1 | Main_Reward: 22.00629475109781 | Energy_DS: 2.47514604785437 | Energy_Bst: 1.7529593670177623
+Iteration: 116000 | Agent: 2 | Main_Reward: 8.403409441070322 | Energy_DS: 2.1246673221348913 | Energy_Bst: 1.7998039715570366
+Iteration: 116000 | Agent: 3 | Main_Reward: -26.962200059429144 | Energy_DS: 3.2385402215583325 | Energy_Bst: 2.3335502747469787
+Iteration: 116000 | Agent: 4 | Main_Reward: -30.034224577825665 | Energy_DS: 2.950418374645778 | Energy_Bst: 1.648753171925595
+--------------------------------------
+ 
+Iteration: 117000 | Agent: 0 | Main_Reward: 12.049781136234458 | Energy_DS: 2.485615257135418 | Energy_Bst: 1.930239968808296
+Iteration: 117000 | Agent: 1 | Main_Reward: 25.385159369236415 | Energy_DS: 2.5846090942165123 | Energy_Bst: 1.374818118605174
+Iteration: 117000 | Agent: 2 | Main_Reward: 7.475936427682172 | Energy_DS: 1.97222184116462 | Energy_Bst: 1.674608159397253
+Iteration: 117000 | Agent: 3 | Main_Reward: -25.220926749409657 | Energy_DS: 3.338854112739301 | Energy_Bst: 2.1428176695771333
+Iteration: 117000 | Agent: 4 | Main_Reward: -35.38979257688111 | Energy_DS: 2.839543055693194 | Energy_Bst: 1.5330204884007557
+--------------------------------------
+ 
+Iteration: 118000 | Agent: 0 | Main_Reward: 10.101194159741723 | Energy_DS: 2.544689480479186 | Energy_Bst: 1.9016476571925183
+Iteration: 118000 | Agent: 1 | Main_Reward: 21.119612687569365 | Energy_DS: 2.403767529515713 | Energy_Bst: 1.1082922214097601
+Iteration: 118000 | Agent: 2 | Main_Reward: 7.923981946010849 | Energy_DS: 1.8649740050986923 | Energy_Bst: 1.5914084944721836
+Iteration: 118000 | Agent: 3 | Main_Reward: -26.760450818969815 | Energy_DS: 3.1141434068869254 | Energy_Bst: 1.6559147434227268
+Iteration: 118000 | Agent: 4 | Main_Reward: -32.5410032317788 | Energy_DS: 3.065523166061883 | Energy_Bst: 1.7976889921251449
+--------------------------------------
+ 
+Iteration: 119000 | Agent: 0 | Main_Reward: 12.804229346313088 | Energy_DS: 2.7680229683487845 | Energy_Bst: 1.9467780273573967
+Iteration: 119000 | Agent: 1 | Main_Reward: 24.36343682967592 | Energy_DS: 2.4494618736325537 | Energy_Bst: 1.1031321024850955
+Iteration: 119000 | Agent: 2 | Main_Reward: 8.300219283807534 | Energy_DS: 2.000370449471116 | Energy_Bst: 1.6967332347350863
+Iteration: 119000 | Agent: 3 | Main_Reward: -32.75752826833454 | Energy_DS: 3.626414457888385 | Energy_Bst: 1.9696977035455943
+Iteration: 119000 | Agent: 4 | Main_Reward: -32.46644068313151 | Energy_DS: 3.0704925359526904 | Energy_Bst: 1.7625019090792902
+--------------------------------------
+ 
+Iteration: 120000 | Agent: 0 | Main_Reward: 6.720008725958847 | Energy_DS: 2.887576084320815 | Energy_Bst: 1.9853449415930662
+Iteration: 120000 | Agent: 1 | Main_Reward: 27.109726441519506 | Energy_DS: 2.381159874207525 | Energy_Bst: 0.9649244804070354
+Iteration: 120000 | Agent: 2 | Main_Reward: 6.067647705065673 | Energy_DS: 1.7286543212516023 | Energy_Bst: 1.4789095183181584
+Iteration: 120000 | Agent: 3 | Main_Reward: -26.716153409984848 | Energy_DS: 3.4769641628487054 | Energy_Bst: 2.1972712241354246
+Iteration: 120000 | Agent: 4 | Main_Reward: -24.60904944067701 | Energy_DS: 2.9993095254562134 | Energy_Bst: 1.3751060422327999
+--------------------------------------
+ 
+Iteration: 121000 | Agent: 0 | Main_Reward: 8.646714666671237 | Energy_DS: 2.6675667634760027 | Energy_Bst: 1.9172186237626168
+Iteration: 121000 | Agent: 1 | Main_Reward: 28.985627725938716 | Energy_DS: 2.4931585989578013 | Energy_Bst: 1.0781432504361212
+Iteration: 121000 | Agent: 2 | Main_Reward: 7.700349140460202 | Energy_DS: 1.8492039681238341 | Energy_Bst: 1.617179061056983
+Iteration: 121000 | Agent: 3 | Main_Reward: -25.679684833279374 | Energy_DS: 3.3103374986476823 | Energy_Bst: 1.9789621970201043
+Iteration: 121000 | Agent: 4 | Main_Reward: -38.67220454527198 | Energy_DS: 2.909405652589869 | Energy_Bst: 1.3581780489747395
+--------------------------------------
+ 
+Iteration: 122000 | Agent: 0 | Main_Reward: 7.826068435196976 | Energy_DS: 3.0292499114837974 | Energy_Bst: 2.065814938903762
+Iteration: 122000 | Agent: 1 | Main_Reward: 22.893063325402718 | Energy_DS: 2.2611771545884896 | Energy_Bst: 0.8815537855840079
+Iteration: 122000 | Agent: 2 | Main_Reward: 7.963717762183229 | Energy_DS: 2.064864659606519 | Energy_Bst: 1.7662694271119905
+Iteration: 122000 | Agent: 3 | Main_Reward: -23.170337650088488 | Energy_DS: 3.489593962694558 | Energy_Bst: 2.1642774579328794
+Iteration: 122000 | Agent: 4 | Main_Reward: -29.856977366663 | Energy_DS: 3.074368810028426 | Energy_Bst: 1.2112002329478677
+--------------------------------------
+ 
+Iteration: 123000 | Agent: 0 | Main_Reward: 6.949036144591494 | Energy_DS: 3.0990907900469375 | Energy_Bst: 2.224677877712705
+Iteration: 123000 | Agent: 1 | Main_Reward: 24.191648340407273 | Energy_DS: 2.4528592109055745 | Energy_Bst: 0.9487596608113543
+Iteration: 123000 | Agent: 2 | Main_Reward: 6.303671314571662 | Energy_DS: 1.960067971725415 | Energy_Bst: 1.7544827203219293
+Iteration: 123000 | Agent: 3 | Main_Reward: -22.327867838918213 | Energy_DS: 3.575521717437293 | Energy_Bst: 2.182289485055856
+Iteration: 123000 | Agent: 4 | Main_Reward: -24.24043001535419 | Energy_DS: 3.211350005867386 | Energy_Bst: 1.3139186039577635
+--------------------------------------
+ 
+Iteration: 124000 | Agent: 0 | Main_Reward: 5.973442748448546 | Energy_DS: 3.486057886543441 | Energy_Bst: 2.667239635913374
+Iteration: 124000 | Agent: 1 | Main_Reward: 23.238920399977417 | Energy_DS: 2.221629051445252 | Energy_Bst: 0.8507369182408854
+Iteration: 124000 | Agent: 2 | Main_Reward: 5.314629191411833 | Energy_DS: 1.916089469657239 | Energy_Bst: 1.7437469401552739
+Iteration: 124000 | Agent: 3 | Main_Reward: -25.53743906152264 | Energy_DS: 3.4504175585720294 | Energy_Bst: 2.134381300916603
+Iteration: 124000 | Agent: 4 | Main_Reward: -21.694263793891217 | Energy_DS: 3.187533961918818 | Energy_Bst: 1.0743457850569953
+--------------------------------------
+ 
+Iteration: 125000 | Agent: 0 | Main_Reward: 1.8547335949656147 | Energy_DS: 4.216536782401946 | Energy_Bst: 3.155942282367217
+Iteration: 125000 | Agent: 1 | Main_Reward: 27.531733165004873 | Energy_DS: 2.5181538844992426 | Energy_Bst: 1.040720331650082
+Iteration: 125000 | Agent: 2 | Main_Reward: 3.6410330502345722 | Energy_DS: 1.7905454988094924 | Energy_Bst: 1.6195685550719694
+Iteration: 125000 | Agent: 3 | Main_Reward: -31.471276617895807 | Energy_DS: 3.6077651899762353 | Energy_Bst: 2.034146080245038
+Iteration: 125000 | Agent: 4 | Main_Reward: -23.352687853810263 | Energy_DS: 3.153070690362924 | Energy_Bst: 1.0043450519269057
+--------------------------------------
+ 
+Iteration: 126000 | Agent: 0 | Main_Reward: -25.205832936006846 | Energy_DS: 5.711250153670447 | Energy_Bst: 4.005339732161561
+Iteration: 126000 | Agent: 1 | Main_Reward: 26.528988038717916 | Energy_DS: 2.4625724894810492 | Energy_Bst: 0.9862029605165357
+Iteration: 126000 | Agent: 2 | Main_Reward: 4.788003277448804 | Energy_DS: 1.816315778248149 | Energy_Bst: 1.6017419537962778
+Iteration: 126000 | Agent: 3 | Main_Reward: -27.65655191809696 | Energy_DS: 3.431819649327544 | Energy_Bst: 1.7557572832850163
+Iteration: 126000 | Agent: 4 | Main_Reward: -24.450924863927025 | Energy_DS: 3.29121215889908 | Energy_Bst: 1.2864829261444592
+--------------------------------------
+ 
+Iteration: 127000 | Agent: 0 | Main_Reward: 4.320925676166839 | Energy_DS: 4.737874674234755 | Energy_Bst: 3.8026215656611257
+Iteration: 127000 | Agent: 1 | Main_Reward: 14.260374992274654 | Energy_DS: 2.777384001548504 | Energy_Bst: 1.2925355862165744
+Iteration: 127000 | Agent: 2 | Main_Reward: 3.859853184296179 | Energy_DS: 2.156012604032328 | Energy_Bst: 1.9334697077422223
+Iteration: 127000 | Agent: 3 | Main_Reward: -21.892959206655647 | Energy_DS: 3.546535346131942 | Energy_Bst: 2.2621875852345155
+Iteration: 127000 | Agent: 4 | Main_Reward: -22.217071752006888 | Energy_DS: 3.0135624557384086 | Energy_Bst: 0.9043619351442715
+--------------------------------------
+ 
+Iteration: 128000 | Agent: 0 | Main_Reward: 11.90602466622129 | Energy_DS: 2.5388336122334003 | Energy_Bst: 1.9958069535156326
+Iteration: 128000 | Agent: 1 | Main_Reward: 19.959594951150226 | Energy_DS: 2.401349848504253 | Energy_Bst: 1.1798803922401062
+Iteration: 128000 | Agent: 2 | Main_Reward: 2.1745661250284516 | Energy_DS: 2.3152372845718174 | Energy_Bst: 2.09945211354081
+Iteration: 128000 | Agent: 3 | Main_Reward: -24.693944297460064 | Energy_DS: 3.4227351503338026 | Energy_Bst: 2.1622711980938436
+Iteration: 128000 | Agent: 4 | Main_Reward: -26.608780910648385 | Energy_DS: 2.9043286252496117 | Energy_Bst: 1.229240221674903
+--------------------------------------
+ 
+Iteration: 129000 | Agent: 0 | Main_Reward: 10.959019880345638 | Energy_DS: 2.147075924515724 | Energy_Bst: 1.6843568257226
+Iteration: 129000 | Agent: 1 | Main_Reward: 23.30653964204383 | Energy_DS: 2.385615279448876 | Energy_Bst: 1.0318871901993498
+Iteration: 129000 | Agent: 2 | Main_Reward: 1.233128947469797 | Energy_DS: 2.299294052190896 | Energy_Bst: 2.1484133525159805
+Iteration: 129000 | Agent: 3 | Main_Reward: -23.442350561798275 | Energy_DS: 3.5837253266072895 | Energy_Bst: 2.4573442017180884
+Iteration: 129000 | Agent: 4 | Main_Reward: -22.857000023329704 | Energy_DS: 3.1626288321670843 | Energy_Bst: 1.0932421799210754
+--------------------------------------
+ 
+Iteration: 130000 | Agent: 0 | Main_Reward: 11.912895936152198 | Energy_DS: 2.218064086019993 | Energy_Bst: 1.4471231456564706
+Iteration: 130000 | Agent: 1 | Main_Reward: 22.108403646440994 | Energy_DS: 2.34532830136854 | Energy_Bst: 1.0166002790295297
+Iteration: 130000 | Agent: 2 | Main_Reward: 2.680565174489188 | Energy_DS: 2.0134216280558075 | Energy_Bst: 1.8504950003229228
+Iteration: 130000 | Agent: 3 | Main_Reward: -23.404656171754933 | Energy_DS: 3.6759988090181697 | Energy_Bst: 2.5358841131942156
+Iteration: 130000 | Agent: 4 | Main_Reward: -22.382943859670792 | Energy_DS: 3.2927153974894416 | Energy_Bst: 1.0880723416995493
+--------------------------------------
+ 
+Iteration: 131000 | Agent: 0 | Main_Reward: 11.17361502481387 | Energy_DS: 2.123114066541195 | Energy_Bst: 1.3724168577589952
+Iteration: 131000 | Agent: 1 | Main_Reward: 18.907345995797247 | Energy_DS: 2.447891739650806 | Energy_Bst: 1.2769199612833515
+Iteration: 131000 | Agent: 2 | Main_Reward: -0.13375515709061744 | Energy_DS: 2.099224255329325 | Energy_Bst: 1.9339727755606477
+Iteration: 131000 | Agent: 3 | Main_Reward: -29.21686872070808 | Energy_DS: 3.6155634784342228 | Energy_Bst: 2.411916296857708
+Iteration: 131000 | Agent: 4 | Main_Reward: -25.256502341407806 | Energy_DS: 3.275515519070124 | Energy_Bst: 1.3652325552260063
+--------------------------------------
+ 
+Iteration: 132000 | Agent: 0 | Main_Reward: 12.252427533557269 | Energy_DS: 2.205766559779644 | Energy_Bst: 1.4811862586207218
+Iteration: 132000 | Agent: 1 | Main_Reward: 10.527790144595429 | Energy_DS: 3.1393076309446046 | Energy_Bst: 1.7562592125275733
+Iteration: 132000 | Agent: 2 | Main_Reward: 3.4944086952891227 | Energy_DS: 1.902368980620842 | Energy_Bst: 1.7361432712781661
+Iteration: 132000 | Agent: 3 | Main_Reward: -28.883311793770314 | Energy_DS: 3.4457012350676886 | Energy_Bst: 2.2106659269318567
+Iteration: 132000 | Agent: 4 | Main_Reward: -27.716629759939593 | Energy_DS: 3.343253937172113 | Energy_Bst: 1.5811171438050209
+--------------------------------------
+ 
+Iteration: 133000 | Agent: 0 | Main_Reward: 8.877741058094626 | Energy_DS: 2.2121004905104638 | Energy_Bst: 1.6793315512071716
+Iteration: 133000 | Agent: 1 | Main_Reward: 4.551224729680244 | Energy_DS: 3.165445601388812 | Energy_Bst: 2.04105636519924
+Iteration: 133000 | Agent: 2 | Main_Reward: 4.74023641125655 | Energy_DS: 2.037402932306234 | Energy_Bst: 1.872046900737515
+Iteration: 133000 | Agent: 3 | Main_Reward: -22.859270500791055 | Energy_DS: 3.472609289785882 | Energy_Bst: 2.449408559489631
+Iteration: 133000 | Agent: 4 | Main_Reward: -25.85347465742423 | Energy_DS: 3.396734567495268 | Energy_Bst: 1.8045134248531434
+--------------------------------------
+ 
+Iteration: 134000 | Agent: 0 | Main_Reward: 13.160920888211724 | Energy_DS: 2.378668033838272 | Energy_Bst: 1.8243806055119787
+Iteration: 134000 | Agent: 1 | Main_Reward: 23.652897736122814 | Energy_DS: 2.5185911488804162 | Energy_Bst: 1.729578080953286
+Iteration: 134000 | Agent: 2 | Main_Reward: -0.5630814541105646 | Energy_DS: 2.1010689277211 | Energy_Bst: 1.9347497347871228
+Iteration: 134000 | Agent: 3 | Main_Reward: -23.992772296597206 | Energy_DS: 3.20499736848081 | Energy_Bst: 2.4077487634884593
+Iteration: 134000 | Agent: 4 | Main_Reward: -24.186102686658035 | Energy_DS: 3.3544538960133954 | Energy_Bst: 1.3983575725357538
+--------------------------------------
+ 
+Iteration: 135000 | Agent: 0 | Main_Reward: 8.564155974908525 | Energy_DS: 3.0592659062727985 | Energy_Bst: 2.4159410041475726
+Iteration: 135000 | Agent: 1 | Main_Reward: 23.538764482592775 | Energy_DS: 2.4493823692659373 | Energy_Bst: 1.3789798119047547
+Iteration: 135000 | Agent: 2 | Main_Reward: 6.308614718785218 | Energy_DS: 2.3972039406315346 | Energy_Bst: 2.180237045942536
+Iteration: 135000 | Agent: 3 | Main_Reward: -21.695259483617036 | Energy_DS: 3.364806567431746 | Energy_Bst: 2.472507711920002
+Iteration: 135000 | Agent: 4 | Main_Reward: -21.243135283893718 | Energy_DS: 3.450691299039246 | Energy_Bst: 0.9471136896539858
+--------------------------------------
+ 
+Iteration: 136000 | Agent: 0 | Main_Reward: -29.20289992653294 | Energy_DS: 4.731740149314332 | Energy_Bst: 3.772968111416567
+Iteration: 136000 | Agent: 1 | Main_Reward: 21.956608656619373 | Energy_DS: 2.383164628033863 | Energy_Bst: 1.4221851075985146
+Iteration: 136000 | Agent: 2 | Main_Reward: 7.086392386556654 | Energy_DS: 2.174846449130051 | Energy_Bst: 1.9826704260422463
+Iteration: 136000 | Agent: 3 | Main_Reward: -24.527615386788394 | Energy_DS: 3.6520419135137985 | Energy_Bst: 2.690864302203209
+Iteration: 136000 | Agent: 4 | Main_Reward: -25.108528160042326 | Energy_DS: 3.4522530052207787 | Energy_Bst: 0.7186217301030257
+--------------------------------------
+ 
+Iteration: 137000 | Agent: 0 | Main_Reward: -20.013188869978478 | Energy_DS: 4.3995439386312425 | Energy_Bst: 3.464029438657269
+Iteration: 137000 | Agent: 1 | Main_Reward: 24.064318820623786 | Energy_DS: 2.2171944144818254 | Energy_Bst: 1.361391721139972
+Iteration: 137000 | Agent: 2 | Main_Reward: 5.2346706366228855 | Energy_DS: 2.532481703063163 | Energy_Bst: 2.2742254312685684
+Iteration: 137000 | Agent: 3 | Main_Reward: -26.005277641089272 | Energy_DS: 3.489550257968858 | Energy_Bst: 2.2713112897906362
+Iteration: 137000 | Agent: 4 | Main_Reward: -28.29591191316912 | Energy_DS: 3.6571369937264584 | Energy_Bst: 0.7988930507847272
+--------------------------------------
+ 
+Iteration: 138000 | Agent: 0 | Main_Reward: 1.383547467037832 | Energy_DS: 4.164206642355613 | Energy_Bst: 3.34720982290207
+Iteration: 138000 | Agent: 1 | Main_Reward: 25.226522720581762 | Energy_DS: 2.2730779308746407 | Energy_Bst: 1.5526937388803594
+Iteration: 138000 | Agent: 2 | Main_Reward: 5.135963222530063 | Energy_DS: 1.8721681855457406 | Energy_Bst: 1.6571780034101098
+Iteration: 138000 | Agent: 3 | Main_Reward: -24.370758271932832 | Energy_DS: 3.4633641791989307 | Energy_Bst: 2.5947547210541497
+Iteration: 138000 | Agent: 4 | Main_Reward: -26.861233377799454 | Energy_DS: 3.270606442581745 | Energy_Bst: 1.1179922323737055
+--------------------------------------
+ 
+Iteration: 139000 | Agent: 0 | Main_Reward: 6.481186918363633 | Energy_DS: 3.8746206666261607 | Energy_Bst: 3.18003503835427
+Iteration: 139000 | Agent: 1 | Main_Reward: 24.38210580873234 | Energy_DS: 2.18883641184298 | Energy_Bst: 1.4642353873239982
+Iteration: 139000 | Agent: 2 | Main_Reward: 6.979375519984561 | Energy_DS: 1.8012396234675727 | Energy_Bst: 1.5676469461084745
+Iteration: 139000 | Agent: 3 | Main_Reward: -28.5175606626346 | Energy_DS: 3.3203424218683164 | Energy_Bst: 2.5004560956034485
+Iteration: 139000 | Agent: 4 | Main_Reward: -29.095301305877936 | Energy_DS: 3.2868536482968085 | Energy_Bst: 1.2843053474503605
+--------------------------------------
+ 
+Iteration: 140000 | Agent: 0 | Main_Reward: 8.791762727779135 | Energy_DS: 4.098716413264893 | Energy_Bst: 3.3236632955348706
+Iteration: 140000 | Agent: 1 | Main_Reward: 25.62758690227997 | Energy_DS: 2.2389031164118367 | Energy_Bst: 1.457106331252661
+Iteration: 140000 | Agent: 2 | Main_Reward: 3.4381532597313753 | Energy_DS: 1.7038735589498104 | Energy_Bst: 1.5074297925295925
+Iteration: 140000 | Agent: 3 | Main_Reward: -24.511681155056166 | Energy_DS: 3.5194685937832086 | Energy_Bst: 2.5759619181020703
+Iteration: 140000 | Agent: 4 | Main_Reward: -29.985445394920042 | Energy_DS: 3.0840390758555425 | Energy_Bst: 1.2120325447481086
+--------------------------------------
+ 
+Iteration: 141000 | Agent: 0 | Main_Reward: 8.101452635547945 | Energy_DS: 3.9393723630909183 | Energy_Bst: 3.129868622760375
+Iteration: 141000 | Agent: 1 | Main_Reward: 24.06771154767289 | Energy_DS: 2.2379257762109424 | Energy_Bst: 1.5172632908217132
+Iteration: 141000 | Agent: 2 | Main_Reward: 5.183115395312574 | Energy_DS: 1.8605084616163785 | Energy_Bst: 1.647897512524171
+Iteration: 141000 | Agent: 3 | Main_Reward: -25.755743706509826 | Energy_DS: 3.5953565889169328 | Energy_Bst: 2.623408744903377
+Iteration: 141000 | Agent: 4 | Main_Reward: -32.27403743913227 | Energy_DS: 3.2999265071198507 | Energy_Bst: 1.346427597323098
+--------------------------------------
+ 
+Iteration: 142000 | Agent: 0 | Main_Reward: 8.858709312801103 | Energy_DS: 2.6571847001314164 | Energy_Bst: 2.149020190573712
+Iteration: 142000 | Agent: 1 | Main_Reward: 23.544355110250915 | Energy_DS: 2.3047953809678634 | Energy_Bst: 1.557430019581993
+Iteration: 142000 | Agent: 2 | Main_Reward: 7.695318523833853 | Energy_DS: 2.108672022610296 | Energy_Bst: 1.7455769670629084
+Iteration: 142000 | Agent: 3 | Main_Reward: -24.071735071717633 | Energy_DS: 3.607204895016448 | Energy_Bst: 2.6008426770738766
+Iteration: 142000 | Agent: 4 | Main_Reward: -29.959027818723026 | Energy_DS: 3.5892550292832954 | Energy_Bst: 1.2367589269928823
+--------------------------------------
+ 
+Iteration: 143000 | Agent: 0 | Main_Reward: -5.6951348384225415 | Energy_DS: 3.687701449900682 | Energy_Bst: 2.9664959971330247
+Iteration: 143000 | Agent: 1 | Main_Reward: 25.180619104627617 | Energy_DS: 2.3741266900562215 | Energy_Bst: 1.6200827648862786
+Iteration: 143000 | Agent: 2 | Main_Reward: 4.715901263875839 | Energy_DS: 2.015758167588063 | Energy_Bst: 1.6443108524795353
+Iteration: 143000 | Agent: 3 | Main_Reward: -26.270984881328815 | Energy_DS: 3.424518039884898 | Energy_Bst: 2.343373947528097
+Iteration: 143000 | Agent: 4 | Main_Reward: -24.161548989785487 | Energy_DS: 3.5493263726632143 | Energy_Bst: 1.272467821817687
+--------------------------------------
+ 
+Iteration: 144000 | Agent: 0 | Main_Reward: -0.19002389563109034 | Energy_DS: 2.979206712530354 | Energy_Bst: 2.3728306443619256
+Iteration: 144000 | Agent: 1 | Main_Reward: 21.725534129282725 | Energy_DS: 2.380381835859786 | Energy_Bst: 1.7126476923860896
+Iteration: 144000 | Agent: 2 | Main_Reward: 6.111188816374571 | Energy_DS: 1.9901967642306826 | Energy_Bst: 1.6208906927762583
+Iteration: 144000 | Agent: 3 | Main_Reward: -23.977784592416242 | Energy_DS: 3.43136313152529 | Energy_Bst: 2.270282478974944
+Iteration: 144000 | Agent: 4 | Main_Reward: -21.269191131161456 | Energy_DS: 3.5223219954457723 | Energy_Bst: 1.4416054870315007
+--------------------------------------
+ 
+Iteration: 145000 | Agent: 0 | Main_Reward: 10.127383250181476 | Energy_DS: 3.2825334638941888 | Energy_Bst: 2.3943611978492236
+Iteration: 145000 | Agent: 1 | Main_Reward: 23.12722763274669 | Energy_DS: 2.5037578612895137 | Energy_Bst: 1.9587831218426324
+Iteration: 145000 | Agent: 2 | Main_Reward: 5.6766072911092635 | Energy_DS: 1.9601639504771131 | Energy_Bst: 1.6245614399909594
+Iteration: 145000 | Agent: 3 | Main_Reward: -30.023992259259742 | Energy_DS: 3.583524327811492 | Energy_Bst: 2.37536235455393
+Iteration: 145000 | Agent: 4 | Main_Reward: -23.934440387588854 | Energy_DS: 3.544168639555109 | Energy_Bst: 1.5656729850288034
+--------------------------------------
+ 
+Iteration: 146000 | Agent: 0 | Main_Reward: 10.548949771730996 | Energy_DS: 2.999068790480404 | Energy_Bst: 2.2277053483372757
+Iteration: 146000 | Agent: 1 | Main_Reward: 22.69764205946135 | Energy_DS: 2.4671961741747617 | Energy_Bst: 2.1961409645080088
+Iteration: 146000 | Agent: 2 | Main_Reward: 6.53962227773289 | Energy_DS: 2.186515488042588 | Energy_Bst: 1.80992431502917
+Iteration: 146000 | Agent: 3 | Main_Reward: -23.81200625092625 | Energy_DS: 3.683413852534103 | Energy_Bst: 2.571991231246334
+Iteration: 146000 | Agent: 4 | Main_Reward: -25.61855829923998 | Energy_DS: 3.329495049593228 | Energy_Bst: 1.7392339233721337
+--------------------------------------
+ 
+Iteration: 147000 | Agent: 0 | Main_Reward: 10.555796354316758 | Energy_DS: 2.711750684954196 | Energy_Bst: 1.876678945905215
+Iteration: 147000 | Agent: 1 | Main_Reward: 24.82424238183693 | Energy_DS: 2.6163068329594936 | Energy_Bst: 2.476283003939477
+Iteration: 147000 | Agent: 2 | Main_Reward: 5.080648215764793 | Energy_DS: 2.1046487129064206 | Energy_Bst: 1.755770276705052
+Iteration: 147000 | Agent: 3 | Main_Reward: -24.58068735016996 | Energy_DS: 3.4847732745793474 | Energy_Bst: 2.50656017191881
+Iteration: 147000 | Agent: 4 | Main_Reward: -27.871740509945667 | Energy_DS: 3.4706151434210457 | Energy_Bst: 2.1315768404823294
+--------------------------------------
+ 
+Iteration: 148000 | Agent: 0 | Main_Reward: 9.90171683747888 | Energy_DS: 3.4491402128717334 | Energy_Bst: 2.409386336397425
+Iteration: 148000 | Agent: 1 | Main_Reward: 22.44541313965794 | Energy_DS: 2.6464266301391093 | Energy_Bst: 2.4314566643741666
+Iteration: 148000 | Agent: 2 | Main_Reward: 4.427210472681985 | Energy_DS: 2.217541520229547 | Energy_Bst: 1.8566187291811307
+Iteration: 148000 | Agent: 3 | Main_Reward: -23.720913114681505 | Energy_DS: 3.6165340453458197 | Energy_Bst: 2.483114003396581
+Iteration: 148000 | Agent: 4 | Main_Reward: -24.830667880165752 | Energy_DS: 3.6117244768505246 | Energy_Bst: 2.1434092106828855
+--------------------------------------
+ 
+Iteration: 149000 | Agent: 0 | Main_Reward: 11.745105691410622 | Energy_DS: 2.2972187773956714 | Energy_Bst: 1.3256249800182214
+Iteration: 149000 | Agent: 1 | Main_Reward: 23.67260531846392 | Energy_DS: 2.7456008009741635 | Energy_Bst: 2.5428664627891875
+Iteration: 149000 | Agent: 2 | Main_Reward: 5.876130795632305 | Energy_DS: 2.2983849564562333 | Energy_Bst: 1.9320682350410088
+Iteration: 149000 | Agent: 3 | Main_Reward: -21.910479241591077 | Energy_DS: 3.5061761071716817 | Energy_Bst: 2.222546691562671
+Iteration: 149000 | Agent: 4 | Main_Reward: -27.378855804351346 | Energy_DS: 3.323204024235795 | Energy_Bst: 1.7909497196608624
+--------------------------------------
+ 
